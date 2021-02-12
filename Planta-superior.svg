@@ -2848,35 +2848,40 @@ vfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvf8A/9ff49+9+9+9
      cx="953.74164"
      cy="705.08136"
      rx="27.732058"
-     ry="9.0430622" />
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state6&quot;}" />
   <ellipse
      style="fill:#00ffff"
      id="path22-5"
      cx="601.66504"
      cy="702.06702"
      rx="27.732058"
-     ry="9.0430622" />
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state5&quot;}" />
   <ellipse
      style="fill:#00ffff"
      id="path22-6"
      cx="306.25836"
      cy="200.47849"
      rx="27.732058"
-     ry="9.0430622" />
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state4&quot;}" />
   <ellipse
      style="fill:#00ffff"
      id="path22-9"
      cx="620.95691"
      cy="275.23447"
      rx="27.732058"
-     ry="9.0430622" />
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state3&quot;}" />
   <ellipse
      style="fill:#00ffff"
      id="path22-57"
      cx="930.83252"
      cy="272.82297"
      rx="27.732058"
-     ry="9.0430622" />
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state2&quot;}" />
   <ellipse
      style="fill:#00ffff"
      id="path22-66"
@@ -2884,13 +2889,53 @@ vfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvf8A/9ff49+9+9+9
      cy="200.47845"
      rx="27.732058"
      ry="9.0430622"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state1&quot;}" />
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state1&quot;}" />
   <ellipse
      style="fill:#ff0000"
      id="path22-66-3"
-     cx="1284.1147"
-     cy="200.47847"
+     cx="1285.3206"
+     cy="230.62201"
      rx="27.732058"
      ry="9.0430622"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state1&quot;}" />
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state1&quot;}" />
+  <ellipse
+     style="fill:#ff0000"
+     id="path22-66-3-5"
+     cx="933.24408"
+     cy="247.5024"
+     rx="27.732058"
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state2&quot;}" />
+  <ellipse
+     style="fill:#ff0000"
+     id="path22-66-3-2"
+     cx="623.36841"
+     cy="246.29666"
+     rx="27.732058"
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state3&quot;}" />
+  <ellipse
+     style="fill:#ff0000"
+     id="path22-66-3-0"
+     cx="308.66986"
+     cy="225.79904"
+     rx="27.732058"
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state4&quot;}" />
+  <ellipse
+     style="fill:#ff0000"
+     id="path22-66-3-9"
+     cx="604.0766"
+     cy="674.3349"
+     rx="27.732058"
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state5&quot;}" />
+  <ellipse
+     style="fill:#ff0000"
+     id="path22-66-3-05"
+     cx="954.94745"
+     cy="682.77509"
+     rx="27.732058"
+     ry="9.0430622"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state6&quot;}" />
 </svg>
