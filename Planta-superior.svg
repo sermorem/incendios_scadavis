@@ -2884,12 +2884,12 @@ vfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvfvf8A/9ff49+9+9+9
      cy="200.47845"
      rx="27.732058"
      ry="9.0430622"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state1&quot;}" />
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state1&quot;}" />
   <ellipse
      style="fill:#ff0000"
      id="path22-66-3"
-     cx="1282.9091"
-     cy="200.47849"
+     cx="1284.1147"
+     cy="200.47847"
      rx="27.732058"
      ry="9.0430622"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state1&quot;}" />
