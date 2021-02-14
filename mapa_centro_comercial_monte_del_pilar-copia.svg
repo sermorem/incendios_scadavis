@@ -44,9 +44,9 @@
      inkscape:window-height="1017"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="1.1304086"
-     inkscape:cx="855.84563"
-     inkscape:cy="471.16033"
+     inkscape:zoom="0.7993196"
+     inkscape:cx="999.75899"
+     inkscape:cy="450.46327"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -3706,7 +3706,7 @@
        id="hlight-737-74">
       <polygon
          style="fill:#ffffff"
-         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
+         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
          id="polygon5877-3" />
     </g>
   </g>
@@ -3730,34 +3730,34 @@
          id="shape-8-7-8">
         <polygon
            id="polygon5580-3-4"
-           points="25,11.556 1.715,25 98.285,25 75,11.556 75,0 25,0 "
+           points="75,0 25,0 25,11.556 1.715,25 98.285,25 75,11.556 "
            style="fill:#a9d1f9" />
       </g>
       <g
          id="dark-33-2-4">
         <polygon
            id="polygon5583-4-9"
-           points="1.715,25 5.88,25 27,12.806 27,0 25,0 25,11.556 "
+           points="25,0 25,11.556 1.715,25 5.88,25 27,12.806 27,0 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5585-05-6"
-           points="73,12.806 94.12,25 98.285,25 75,11.556 75,0 73,0 "
+           points="75,0 73,0 73,12.806 94.12,25 98.285,25 75,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-1"
-           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-1"
-           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-9"
-           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-8"
-           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
@@ -8449,7 +8449,7 @@
   </g>
   <g
      id="g6102-0-25"
-     transform="matrix(0,0.49579896,-0.47232595,0,1816.9887,344.40807)">
+     transform="matrix(0,0.49579896,-0.45256518,0,1815.0126,344.40807)">
     <g
        id="frame-62-7-0">
       <rect
@@ -8729,34 +8729,34 @@
          id="shape-8-7-1">
         <polygon
            id="polygon5580-3-9"
-           points="75,11.556 75,0 25,0 25,11.556 1.715,25 98.285,25 "
+           points="1.715,25 98.285,25 75,11.556 75,0 25,0 25,11.556 "
            style="fill:#a9d1f9" />
       </g>
       <g
          id="dark-33-2-40">
         <polygon
            id="polygon5583-4-5"
-           points="27,0 25,0 25,11.556 1.715,25 5.88,25 27,12.806 "
+           points="5.88,25 27,12.806 27,0 25,0 25,11.556 1.715,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5585-05-0"
-           points="75,11.556 75,0 73,0 73,12.806 94.12,25 98.285,25 "
+           points="94.12,25 98.285,25 75,11.556 75,0 73,0 73,12.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0"
-           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6"
-           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3"
-           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9"
-           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
@@ -8840,7 +8840,7 @@
        id="hlight-737-74-6">
       <polygon
          style="fill:#ffffff"
-         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-3-3" />
     </g>
   </g>
@@ -10519,192 +10519,6 @@
     </g>
   </g>
   <g
-     id="g3160-5-0-34-6"
-     transform="matrix(0.28087698,0,0,0.2847849,1805.5274,948.70389)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state16&quot;}">
-    <g
-       id="shape-7-8-4-5-3">
-      <circle
-         style="fill:#ff0000"
-         cx="50"
-         cy="50"
-         r="50"
-         id="circle3130-0-7-2-67" />
-    </g>
-    <g
-       id="dark-4-06-3-2-5">
-      <circle
-         style="fill:#cc0000"
-         cx="50"
-         cy="50"
-         r="48"
-         id="circle3133-9-8-6-8" />
-    </g>
-    <g
-       id="light-2-9-8-8-8">
-      <g
-         style="fill:#ffe5e5"
-         id="g3144-4-2-50-4">
-        <path
-           style="fill:#ffe5e5"
-           inkscape:connector-curvature="0"
-           d="M 50,47.172 81.079,16.093 C 72.893,8.585 61.983,4 50,4 38.017,4 27.107,8.585 18.921,16.093 Z"
-           id="path3136-0-6-6-0" />
-        <path
-           style="fill:#ffe5e5"
-           inkscape:connector-curvature="0"
-           d="M 83.907,18.921 52.828,50 83.907,81.079 C 91.415,72.893 96,61.983 96,50 96,38.017 91.415,27.107 83.907,18.921 Z"
-           id="path3138-9-1-1-79" />
-        <path
-           style="fill:#ffe5e5"
-           inkscape:connector-curvature="0"
-           d="M 47.172,50 16.093,18.921 C 8.585,27.107 4,38.017 4,50 4,61.983 8.585,72.893 16.093,81.079 Z"
-           id="path3140-8-6-6-06" />
-        <path
-           style="fill:#ffe5e5"
-           inkscape:connector-curvature="0"
-           d="M 50,52.828 18.921,83.907 C 27.107,91.415 38.017,96 50,96 61.983,96 72.893,91.415 81.079,83.907 Z"
-           id="path3142-5-7-0-6" />
-      </g>
-    </g>
-    <g
-       id="hlight-5-8-0-15-9">
-      <g
-         style="fill:#ffcccc"
-         class="alt"
-         id="alt_1-7-83-7-51-1">
-        <path
-           style="fill:#ffcccc"
-           inkscape:connector-curvature="0"
-           d="M 82.846,19.981 52.828,50 82.846,80.019 C 90.083,72.104 94.5,61.569 94.5,50 94.5,38.431 90.083,27.895 82.846,19.981 Z"
-           id="path3147-7-3-8-8" />
-      </g>
-      <g
-         style="fill:#ffcccc"
-         class="alt"
-         id="alt_2-4-2-4-8-5">
-        <path
-           style="fill:#ffcccc"
-           inkscape:connector-curvature="0"
-           d="M 50,47.172 80.018,17.154 C 72.104,9.917 61.569,5.5 50,5.5 38.431,5.5 27.896,9.917 19.982,17.153 Z"
-           id="path3150-90-3-0-0" />
-      </g>
-      <g
-         style="fill:#ffcccc"
-         class="alt"
-         id="alt_3-4-9-1-3-49">
-        <path
-           style="fill:#ffcccc"
-           inkscape:connector-curvature="0"
-           d="M 50,52.828 19.982,82.847 C 27.895,90.083 38.431,94.5 50,94.5 c 11.569,0 22.105,-4.417 30.018,-11.653 z"
-           id="path3153-45-1-83-2" />
-      </g>
-      <g
-         style="fill:#ffcccc"
-         class="alt"
-         id="alt_4-6-80-0-3-57">
-        <path
-           style="fill:#ffcccc"
-           inkscape:connector-curvature="0"
-           d="M 47.172,50 17.154,19.981 C 9.917,27.895 5.5,38.431 5.5,50 c 0,11.569 4.417,22.104 11.653,30.018 z"
-           id="path3156-3-0-5-50" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="g3006-3-1-4-52"
-     transform="matrix(0.27459859,0,0,0.28344495,1805.8236,948.77089)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state16&quot;}">
-    <g
-       id="shape-73-4-2-66">
-      <circle
-         style="fill:#006837"
-         cx="50"
-         cy="50"
-         r="50"
-         id="circle2976-0-0-6-5" />
-    </g>
-    <g
-       id="dark-1-3-66-9">
-      <circle
-         style="fill:#009245"
-         cx="50"
-         cy="50"
-         r="48"
-         id="circle2979-9-6-77-47" />
-    </g>
-    <g
-       id="light-24-4-21-9">
-      <g
-         style="fill:#d9ffcc"
-         id="g2990-8-1-13-3">
-        <path
-           style="fill:#d9ffcc"
-           inkscape:connector-curvature="0"
-           d="M 50,47.172 81.079,16.093 C 72.893,8.585 61.983,4 50,4 38.017,4 27.107,8.585 18.921,16.093 Z"
-           id="path2982-0-0-1-78" />
-        <path
-           style="fill:#d9ffcc"
-           inkscape:connector-curvature="0"
-           d="M 83.907,18.921 52.828,50 83.907,81.079 C 91.415,72.893 96,61.983 96,50 96,38.017 91.415,27.107 83.907,18.921 Z"
-           id="path2984-8-4-83-4" />
-        <path
-           style="fill:#d9ffcc"
-           inkscape:connector-curvature="0"
-           d="M 47.172,50 16.093,18.921 C 8.585,27.107 4,38.017 4,50 4,61.983 8.585,72.893 16.093,81.079 Z"
-           id="path2986-7-1-3-570" />
-        <path
-           style="fill:#d9ffcc"
-           inkscape:connector-curvature="0"
-           d="M 50,52.828 18.921,83.907 C 27.107,91.415 38.017,96 50,96 61.983,96 72.893,91.415 81.079,83.907 Z"
-           id="path2988-0-3-01-9" />
-      </g>
-    </g>
-    <g
-       id="hlight-2-1-4-0">
-      <g
-         style="fill:#d9ffcc"
-         class="alt"
-         id="alt_1-48-9-27-0">
-        <path
-           style="fill:#d9ffcc"
-           inkscape:connector-curvature="0"
-           d="M 82.846,19.981 52.828,50 82.846,80.019 C 90.083,72.104 94.5,61.569 94.5,50 94.5,38.431 90.083,27.895 82.846,19.981 Z"
-           id="path2993-7-0-8-1" />
-      </g>
-      <g
-         style="fill:#d9ffcc"
-         class="alt"
-         id="alt_2-3-3-73-2">
-        <path
-           style="fill:#d9ffcc"
-           inkscape:connector-curvature="0"
-           d="M 50,47.172 80.018,17.154 C 72.104,9.917 61.569,5.5 50,5.5 38.431,5.5 27.896,9.917 19.982,17.153 Z"
-           id="path2996-24-8-9-91" />
-      </g>
-      <g
-         style="fill:#d9ffcc"
-         class="alt"
-         id="alt_3-498-7-12-1">
-        <path
-           style="fill:#d9ffcc"
-           inkscape:connector-curvature="0"
-           d="M 50,52.828 19.982,82.847 C 27.895,90.083 38.431,94.5 50,94.5 c 11.569,0 22.105,-4.417 30.018,-11.653 z"
-           id="path2999-6-4-49-11" />
-      </g>
-      <g
-         style="fill:#d9ffcc"
-         class="alt"
-         id="alt_4-75-8-7-8">
-        <path
-           style="fill:#d9ffcc"
-           inkscape:connector-curvature="0"
-           d="M 47.172,50 17.154,19.981 C 9.917,27.895 5.5,38.431 5.5,50 c 0,11.569 4.417,22.104 11.653,30.018 z"
-           id="path3002-9-2-0-5" />
-      </g>
-    </g>
-  </g>
-  <g
      id="g3160-5-0-34-55"
      transform="matrix(0.28087698,0,0,0.2847849,1716.9556,1132.6326)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state17&quot;}">
@@ -11078,7 +10892,7 @@
   </g>
   <g
      id="g3160-5-0-34-97"
-     transform="matrix(0.28087698,0,0,0.2847849,1511.7201,969.85967)"
+     transform="matrix(0.28087698,0,0,0.2847849,1528.7101,969.51378)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state19&quot;}">
     <g
        id="shape-7-8-4-5-7">
@@ -11171,7 +10985,7 @@
   </g>
   <g
      id="g3006-3-1-4-7"
-     transform="matrix(0.27459859,0,0,0.28344495,1511.2575,970.73204)"
+     transform="matrix(0.27459859,0,0,0.28344495,1529.0063,969.58078)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state19&quot;}">
     <g
        id="shape-73-4-2-9">
@@ -12748,6 +12562,3569 @@
            d="M 47.172,50 17.154,19.981 C 9.917,27.895 5.5,38.431 5.5,50 c 0,11.569 4.417,22.104 11.653,30.018 z"
            id="path3002-9-2-0-21" />
       </g>
+    </g>
+  </g>
+  <g
+     id="g5880-7-7"
+     transform="matrix(0.4354605,0,0,0.36868043,1056.7472,392.68873)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state8&quot;}">
+    <g
+       id="frame-92-3-8">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-5" />
+    </g>
+    <g
+       id="shape-17-6-37">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-4" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-75" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-7" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-4" />
+    </g>
+    <g
+       id="dark-31-3-3">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-4" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-5" />
+    </g>
+    <g
+       id="light-0-43-8">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-68" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-58" />
+    </g>
+    <g
+       id="hlight-737-74-2">
+      <polygon
+         style="fill:#ffffff"
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
+         id="polygon5877-3-8" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-4-7"
+     transform="matrix(0.32941072,0,0,0.97498776,841.10871,-7.445645)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-8-8">
+      <g
+         id="frame-2-77-7-2">
+        <rect
+           id="rect5577-7-5-4"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-8-0">
+        <polygon
+           id="polygon5580-3-4-7"
+           points="1.715,25 98.285,25 75,11.556 75,0 25,0 25,11.556 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-4-0">
+        <polygon
+           id="polygon5583-4-9-7"
+           points="5.88,25 27,12.806 27,0 25,0 25,11.556 1.715,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-6-4"
+           points="94.12,25 98.285,25 75,11.556 75,0 73,0 73,12.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-1-5"
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-1-1"
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-9-5"
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-8-1"
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5206-3-8"
+     inkscape:transform-center-x="25.221182"
+     inkscape:transform-center-y="-26.665368"
+     transform="matrix(0.43825623,0,0,0.36748537,1056.5473,392.74848)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state8&quot;}">
+    <g
+       id="frame-1-1-1">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5" />
+    </g>
+    <g
+       id="shape-5-76-60">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5" />
+    </g>
+    <g
+       id="dark-9-0-84">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9" />
+    </g>
+    <g
+       id="light-6-5-4">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14" />
+    </g>
+  </g>
+  <g
+     id="g5389-0-19-0-6"
+     transform="matrix(-0.4645826,0,0,-0.33354934,1388.14,404.39887)">
+    <g
+       id="frame-5-7-5-7-0">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-93-4-1" />
+    </g>
+    <g
+       id="shape-56-8-6-4-4">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-3-7-8" />
+    </g>
+    <g
+       id="dark-5-9-7-5-1">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-5-1-3" />
+    </g>
+    <g
+       id="light-25-2-2-2-2">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-1-8-9" />
+    </g>
+    <g
+       id="hlight-07-0-9-2-3">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-62-8-4" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7"
+     transform="matrix(0.32941072,0,0,0.97498776,1128.4912,1.6920899)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1">
+      <g
+         id="frame-2-77-9-5">
+        <rect
+           id="rect5577-7-6-7"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8">
+        <polygon
+           id="polygon5580-3-9-8"
+           points="1.715,25 98.285,25 75,11.556 75,0 25,0 25,11.556 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1">
+        <polygon
+           id="polygon5583-4-5-6"
+           points="5.88,25 27,12.806 27,0 25,0 25,11.556 1.715,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9"
+           points="94.12,25 98.285,25 75,11.556 75,0 73,0 73,12.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8"
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9"
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6"
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3"
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-3"
+     transform="matrix(0.4354605,0,0,0.36868043,1343.0359,404.39887)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state8&quot;}">
+    <g
+       id="frame-92-3-0-6">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-5" />
+    </g>
+    <g
+       id="shape-17-6-3-6">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-9" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-5" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-4" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-0" />
+    </g>
+    <g
+       id="dark-31-3-5-1">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-1" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-7" />
+    </g>
+    <g
+       id="light-0-43-2-7">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-9" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-9" />
+    </g>
+    <g
+       id="hlight-737-74-6-8">
+      <polygon
+         style="fill:#ffffff"
+         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
+         id="polygon5877-3-3-6" />
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0"
+     inkscape:transform-center-x="25.221182"
+     inkscape:transform-center-y="-26.665368"
+     transform="matrix(0.43825623,0,0,0.36748537,1342.836,404.45862)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state8&quot;}">
+    <g
+       id="frame-1-1-1-9">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4" />
+    </g>
+    <g
+       id="shape-5-76-60-0">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8" />
+    </g>
+    <g
+       id="dark-9-0-84-2">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0" />
+    </g>
+    <g
+       id="light-6-5-4-8">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8" />
+    </g>
+  </g>
+  <g
+     id="g5389-0-19-0-6-0"
+     transform="matrix(-0.4645826,0,0,-0.33354934,1601.2956,405.05308)">
+    <g
+       id="frame-5-7-5-7-0-9">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-93-4-1-7" />
+    </g>
+    <g
+       id="shape-56-8-6-4-4-3">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-3-7-8-6" />
+    </g>
+    <g
+       id="dark-5-9-7-5-1-7">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-5-1-3-3" />
+    </g>
+    <g
+       id="light-25-2-2-2-2-0">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-1-8-9-2" />
+    </g>
+    <g
+       id="hlight-07-0-9-2-3-5">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-62-8-4-4" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7-9"
+     transform="matrix(0.32941072,0,0,0.97498776,1341.6468,2.346286)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1-0">
+      <g
+         id="frame-2-77-9-5-0">
+        <rect
+           id="rect5577-7-6-7-7"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8-4">
+        <polygon
+           id="polygon5580-3-9-8-7"
+           points="75,0 25,0 25,11.556 1.715,25 98.285,25 75,11.556 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1-2">
+        <polygon
+           id="polygon5583-4-5-6-7"
+           points="25,11.556 1.715,25 5.88,25 27,12.806 27,0 25,0 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9-9"
+           points="73,0 73,12.806 94.12,25 98.285,25 75,11.556 75,0 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8-7"
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9-8"
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6-8"
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3-0"
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0-8"
+     inkscape:transform-center-x="25.221182"
+     inkscape:transform-center-y="-26.665368"
+     transform="matrix(0.43825623,0,0,0.36748537,1555.9916,405.11283)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state9&quot;}">
+    <g
+       id="frame-1-1-1-9-2">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4-2" />
+    </g>
+    <g
+       id="shape-5-76-60-0-8">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7-1" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7-1" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7-8" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8-8" />
+    </g>
+    <g
+       id="dark-9-0-84-2-7">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1-1" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0-5" />
+    </g>
+    <g
+       id="light-6-5-4-8-5">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2-4" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5-4">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7-4" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9-3" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0-8" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5-8">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9-2" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0-1" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8-9" />
+    </g>
+  </g>
+  <g
+     id="g5389-0-19-0-6-6"
+     transform="matrix(-0.4645826,0,0,-0.3523153,1691.8356,406.07685)">
+    <g
+       id="frame-5-7-5-7-0-0">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-93-4-1-9" />
+    </g>
+    <g
+       id="shape-56-8-6-4-4-0">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-3-7-8-0" />
+    </g>
+    <g
+       id="dark-5-9-7-5-1-3">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-5-1-3-9" />
+    </g>
+    <g
+       id="light-25-2-2-2-2-1">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-1-8-9-5" />
+    </g>
+    <g
+       id="hlight-07-0-9-2-3-3">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-62-8-4-40" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7-5"
+     transform="matrix(0.32941072,0,0,0.97498776,1432.1868,3.3700667)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1-9">
+      <g
+         id="frame-2-77-9-5-9">
+        <rect
+           id="rect5577-7-6-7-75"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8-2">
+        <polygon
+           id="polygon5580-3-9-8-5"
+           points="1.715,25 98.285,25 75,11.556 75,0 25,0 25,11.556 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1-4">
+        <polygon
+           id="polygon5583-4-5-6-4"
+           points="5.88,25 27,12.806 27,0 25,0 25,11.556 1.715,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9-5"
+           points="94.12,25 98.285,25 75,11.556 75,0 73,0 73,12.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8-1"
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9-5"
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6-9"
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3-3"
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0-89"
+     inkscape:transform-center-x="25.221182"
+     inkscape:transform-center-y="-26.665368"
+     transform="matrix(0.43825623,0,0,0.36748537,1646.5316,406.1366)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state10&quot;}">
+    <g
+       id="frame-1-1-1-9-3">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4-20" />
+    </g>
+    <g
+       id="shape-5-76-60-0-4">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7-7" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7-9" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7-2" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8-1" />
+    </g>
+    <g
+       id="dark-9-0-84-2-75">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1-6" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0-1" />
+    </g>
+    <g
+       id="light-6-5-4-8-3">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2-6" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5-5">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7-6" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9-8" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0-4" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5-1">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9-9" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0-5" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8-1" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7-4"
+     transform="matrix(0.32941072,0,0,0.97498776,1555.9454,-7.55211)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1-1">
+      <g
+         id="frame-2-77-9-5-96">
+        <rect
+           id="rect5577-7-6-7-3"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8-22">
+        <polygon
+           id="polygon5580-3-9-8-0"
+           points="1.715,25 98.285,25 75,11.556 75,0 25,0 25,11.556 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1-7">
+        <polygon
+           id="polygon5583-4-5-6-74"
+           points="5.88,25 27,12.806 27,0 25,0 25,11.556 1.715,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9-0"
+           points="94.12,25 98.285,25 75,11.556 75,0 73,0 73,12.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8-2"
+           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9-4"
+           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6-1"
+           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3-1"
+           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0-0"
+     inkscape:transform-center-x="25.221182"
+     inkscape:transform-center-y="-26.665368"
+     transform="matrix(0.43825623,0,0,0.36748537,1770.3571,393.98797)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state11&quot;}">
+    <g
+       id="frame-1-1-1-9-20">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4-3" />
+    </g>
+    <g
+       id="shape-5-76-60-0-7">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7-3" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7-5" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7-9" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8-7" />
+    </g>
+    <g
+       id="dark-9-0-84-2-5">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1-9" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0-52" />
+    </g>
+    <g
+       id="light-6-5-4-8-36">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2-0" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5-40">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7-8" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9-9" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0-9" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5-4">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9-8" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0-0" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8-96" />
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-6"
+     transform="matrix(0.4354605,0,0,0.36868043,1556.0755,405.05308)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state9&quot;}">
+    <g
+       id="frame-92-3-0-2">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-2" />
+    </g>
+    <g
+       id="shape-17-6-3-7">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-0" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-4" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-1" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-1" />
+    </g>
+    <g
+       id="dark-31-3-5-6">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-3" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-8" />
+    </g>
+    <g
+       id="light-0-43-2-8">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-5" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-3" />
+    </g>
+    <g
+       id="hlight-737-74-6-0">
+      <polygon
+         style="fill:#ffffff"
+         points="46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 "
+         id="polygon5877-3-3-4" />
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-0"
+     transform="matrix(0.4354605,0,0,0.36868043,1646.6155,406.07685)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state10&quot;}">
+    <g
+       id="frame-92-3-0-24">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-0" />
+    </g>
+    <g
+       id="shape-17-6-3-5">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-01" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-2" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-5" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-8" />
+    </g>
+    <g
+       id="dark-31-3-5-12">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-4" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-0" />
+    </g>
+    <g
+       id="light-0-43-2-4">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-1" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-6" />
+    </g>
+    <g
+       id="hlight-737-74-6-9">
+      <polygon
+         style="fill:#ffffff"
+         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         id="polygon5877-3-3-65" />
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-7"
+     transform="matrix(0.4354605,0,0,0.36868043,1770.441,393.92822)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state11&quot;}">
+    <g
+       id="frame-92-3-0-69">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-09" />
+    </g>
+    <g
+       id="shape-17-6-3-3">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-2" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-6" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-8" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-6" />
+    </g>
+    <g
+       id="dark-31-3-5-2">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-2" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-4" />
+    </g>
+    <g
+       id="light-0-43-2-70">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-2" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-2" />
+    </g>
+    <g
+       id="hlight-737-74-6-05">
+      <polygon
+         style="fill:#ffffff"
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         id="polygon5877-3-3-62" />
+    </g>
+  </g>
+  <g
+     id="g4653-0-3"
+     transform="matrix(0,1.7077052,-1.0884636,0,1949.1429,757.39244)">
+    <g
+       id="frame-8-5">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect4638-1-4" />
+    </g>
+    <g
+       id="shape-77-14-2">
+      <path
+         style="fill:#a9d1f9"
+         inkscape:connector-curvature="0"
+         d="m 92.678,25 c 9.763,13.807 9.763,36.193 0,50 H 7.322 c -9.763,-13.807 -9.763,-36.193 0,-50 z"
+         id="path4641-8-8" />
+    </g>
+    <g
+       id="dark-3-0-3">
+      <path
+         style="fill:#7dabd8"
+         inkscape:connector-curvature="0"
+         d="m 92.501,25.25 c 9.665,13.669 9.665,35.831 0,49.5 H 7.499 c -9.665,-13.669 -9.665,-35.831 0,-49.5 z"
+         id="path4644-0-9" />
+    </g>
+    <g
+       id="light-1-3-0">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="m 92.147,74.25 c 9.47,-13.393 9.47,-35.107 0,-48.5 H 7.853 c -9.47,13.393 -9.47,35.107 0,48.5 z"
+         id="path4647-3-4" />
+    </g>
+    <g
+       id="hlight-65-8-7">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 91.971,74 c 9.373,-13.255 9.373,-34.745 0,-48 H 8.029 c -9.373,13.255 -9.373,34.745 0,48 z"
+         id="path4650-7-6" />
+    </g>
+  </g>
+  <g
+     id="g4732-9-5"
+     transform="matrix(0,0.68723399,-0.49957438,0,1869.5209,801.43305)">
+    <g
+       id="frame-9-7-1">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect4717-4-6" />
+    </g>
+    <g
+       id="shape-738-1-2">
+      <polygon
+         style="fill:#a9d1f9"
+         points="0,58 100,58 100,42 58,42 58,0 42,0 42,42 0,42 "
+         id="polygon4720-7-2" />
+    </g>
+    <g
+       id="dark-19-7-8">
+      <polygon
+         style="fill:#7dabd8"
+         points="0,57 100,57 100,43 57,43 57,0 43,0 43,43 0,43 "
+         id="polygon4723-4-5" />
+    </g>
+    <g
+       id="light-89-3-1">
+      <polygon
+         style="fill:#c6e2ff"
+         points="0,55 100,55 100,45 55,45 55,0 45,0 45,45 0,45 "
+         id="polygon4726-9-6" />
+    </g>
+    <g
+       id="hlight-1-2-2">
+      <polygon
+         style="fill:#e0efff"
+         points="0,53.5 100,53.5 100,46.5 53.5,46.5 53.5,0 46.5,0 46.5,46.5 0,46.5 "
+         id="polygon4729-6-0" />
+    </g>
+  </g>
+  <g
+     id="g5389-0-5-6-4-2-4-1"
+     transform="matrix(-0.4645826,0,0,-1.5919682,1867.991,801.43305)"
+     inkscape:transform-center-x="12.51064"
+     inkscape:transform-center-y="69.54571">
+    <g
+       id="frame-5-7-6-0-8-2-2-2">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-3-0-6-7-7-4" />
+    </g>
+    <g
+       id="shape-56-8-7-9-0-2-5-9">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-9-7-2-5-8-9" />
+    </g>
+    <g
+       id="dark-5-9-52-9-8-8-0-0">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-6-8-9-4-7-4" />
+    </g>
+    <g
+       id="light-25-2-21-3-6-7-8-6">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-2-6-1-7-5-6" />
+    </g>
+    <g
+       id="hlight-07-0-38-0-01-5-9-9">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-41-7-1-0-4-7" />
+    </g>
+  </g>
+  <g
+     id="g5389-0-5-6-4-2-4-0"
+     transform="matrix(-0.4645826,0,0,-2.8111808,1867.8938,1151.2746)"
+     inkscape:transform-center-x="12.51064"
+     inkscape:transform-center-y="122.80744">
+    <g
+       id="frame-5-7-6-0-8-2-2-6">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-3-0-6-7-7-3" />
+    </g>
+    <g
+       id="shape-56-8-7-9-0-2-5-6">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-9-7-2-5-8-4" />
+    </g>
+    <g
+       id="dark-5-9-52-9-8-8-0-6">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-6-8-9-4-7-1" />
+    </g>
+    <g
+       id="light-25-2-21-3-6-7-8-7">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-2-6-1-7-5-7" />
+    </g>
+    <g
+       id="hlight-07-0-38-0-01-5-9-8">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-41-7-1-0-4-4" />
+    </g>
+  </g>
+  <g
+     id="g6102-0-25-5"
+     transform="matrix(0,0.49579896,-0.45256518,0,1867.306,592.65633)">
+    <g
+       id="frame-62-7-0-5">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect6087-4-5-7" />
+    </g>
+    <g
+       id="shape-92-0-3-5">
+      <path
+         style="fill:#a9d1f9"
+         inkscape:connector-curvature="0"
+         d="m 66,42 h 34 V 58 H 66 c -4.4,0 -8,3.6 -8,8 v 34 H 42 V 66 C 42,52.8 52.8,42 66,42 Z"
+         id="path6090-3-0-9" />
+    </g>
+    <g
+       id="dark-14-6-6-2">
+      <path
+         style="fill:#7dabd8"
+         inkscape:connector-curvature="0"
+         d="m 66,43 h 34 V 57 H 66 c -5,0 -9,4 -9,9 v 34 H 43 V 66 C 43,53.3 53.3,43 66,43 Z"
+         id="path6093-0-6-0" />
+    </g>
+    <g
+       id="light-19-2-3-5">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="m 66,45 h 34 V 55 H 66 c -6.1,0 -11,4.9 -11,11 v 34 H 45 V 66 C 45,54.4 54.4,45 66,45 Z"
+         id="path6096-1-0-3" />
+    </g>
+    <g
+       id="hlight-50-0-9-2">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 66,46.5 h 34 v 7 H 66 c -6.9,0 -12.5,5.6 -12.5,12.5 v 34 h -7 V 66 C 46.5,55.2 55.2,46.5 66,46.5 Z"
+         id="path6099-8-72-0" />
+    </g>
+  </g>
+  <g
+     id="g6102-0-25-7"
+     transform="matrix(-0.49579896,0,0,-0.45256518,1869.3454,1196.5311)">
+    <g
+       id="frame-62-7-0-0">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect6087-4-5-1" />
+    </g>
+    <g
+       id="shape-92-0-3-7">
+      <path
+         style="fill:#a9d1f9"
+         inkscape:connector-curvature="0"
+         d="m 66,42 h 34 V 58 H 66 c -4.4,0 -8,3.6 -8,8 v 34 H 42 V 66 C 42,52.8 52.8,42 66,42 Z"
+         id="path6090-3-0-0" />
+    </g>
+    <g
+       id="dark-14-6-6-23">
+      <path
+         style="fill:#7dabd8"
+         inkscape:connector-curvature="0"
+         d="m 66,43 h 34 V 57 H 66 c -5,0 -9,4 -9,9 v 34 H 43 V 66 C 43,53.3 53.3,43 66,43 Z"
+         id="path6093-0-6-5" />
+    </g>
+    <g
+       id="light-19-2-3-9">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="m 66,45 h 34 V 55 H 66 c -6.1,0 -11,4.9 -11,11 v 34 H 45 V 66 C 45,54.4 54.4,45 66,45 Z"
+         id="path6096-1-0-4" />
+    </g>
+    <g
+       id="hlight-50-0-9-6">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 66,46.5 h 34 v 7 H 66 c -6.9,0 -12.5,5.6 -12.5,12.5 v 34 h -7 V 66 C 46.5,55.2 55.2,46.5 66,46.5 Z"
+         id="path6099-8-72-9" />
+    </g>
+  </g>
+  <g
+     id="g6102-0-25-4"
+     transform="matrix(0,-0.49579896,0.45256518,0,1481.006,1198.8441)">
+    <g
+       id="frame-62-7-0-2">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect6087-4-5-8" />
+    </g>
+    <g
+       id="shape-92-0-3-0">
+      <path
+         style="fill:#a9d1f9"
+         inkscape:connector-curvature="0"
+         d="m 66,42 h 34 V 58 H 66 c -4.4,0 -8,3.6 -8,8 v 34 H 42 V 66 C 42,52.8 52.8,42 66,42 Z"
+         id="path6090-3-0-4" />
+    </g>
+    <g
+       id="dark-14-6-6-4">
+      <path
+         style="fill:#7dabd8"
+         inkscape:connector-curvature="0"
+         d="m 66,43 h 34 V 57 H 66 c -5,0 -9,4 -9,9 v 34 H 43 V 66 C 43,53.3 53.3,43 66,43 Z"
+         id="path6093-0-6-6" />
+    </g>
+    <g
+       id="light-19-2-3-7">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="m 66,45 h 34 V 55 H 66 c -6.1,0 -11,4.9 -11,11 v 34 H 45 V 66 C 45,54.4 54.4,45 66,45 Z"
+         id="path6096-1-0-0" />
+    </g>
+    <g
+       id="hlight-50-0-9-1">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 66,46.5 h 34 v 7 H 66 c -6.9,0 -12.5,5.6 -12.5,12.5 v 34 h -7 V 66 C 46.5,55.2 55.2,46.5 66,46.5 Z"
+         id="path6099-8-72-2" />
+    </g>
+  </g>
+  <g
+     id="g5389-0-5-6-4-2-4-0-7"
+     transform="matrix(0,-0.4645826,2.9350298,0,1526.2625,1197.174)"
+     inkscape:transform-center-x="128.21782"
+     inkscape:transform-center-y="-12.510607">
+    <g
+       id="frame-5-7-6-0-8-2-2-6-3">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-3-0-6-7-7-3-3" />
+    </g>
+    <g
+       id="shape-56-8-7-9-0-2-5-6-4">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-9-7-2-5-8-4-7" />
+    </g>
+    <g
+       id="dark-5-9-52-9-8-8-0-6-3">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-6-8-9-4-7-1-6" />
+    </g>
+    <g
+       id="light-25-2-21-3-6-7-8-7-0">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-2-6-1-7-5-7-7" />
+    </g>
+    <g
+       id="hlight-07-0-38-0-01-5-9-8-7">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-41-7-1-0-4-4-9" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7-3-0"
+     transform="matrix(0,0.32941072,-0.97498776,0,2135.8237,503.73415)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1-03-4">
+      <g
+         id="frame-2-77-9-5-4-7">
+        <rect
+           id="rect5577-7-6-7-5-0"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8-6-4">
+        <polygon
+           id="polygon5580-3-9-8-4-8"
+           points="75,0 25,0 25,11.556 1.715,25 98.285,25 75,11.556 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1-25-9">
+        <polygon
+           id="polygon5583-4-5-6-746-2"
+           points="25,0 25,11.556 1.715,25 5.88,25 27,12.806 27,0 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9-2-2"
+           points="75,0 73,0 73,12.806 94.12,25 98.285,25 75,11.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8-15-0"
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9-0-7"
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6-99-6"
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3-18-4"
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0-4-9"
+     inkscape:transform-center-x="-26.665336"
+     inkscape:transform-center-y="-25.221186"
+     transform="matrix(0,0.43825623,-0.36748537,0,1734.2836,718.37783)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state14&quot;}">
+    <g
+       id="frame-1-1-1-9-23-7">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4-5-0" />
+    </g>
+    <g
+       id="shape-5-76-60-0-2-4">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7-4-8" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7-2-1" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7-98-8" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8-2-6" />
+    </g>
+    <g
+       id="dark-9-0-84-2-4-6">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1-3-0" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0-6-7" />
+    </g>
+    <g
+       id="light-6-5-4-8-4-2">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2-1-5" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5-6-9">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7-1-3" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9-1-0" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0-6-5" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5-2-6">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9-98-1" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0-7-2" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8-8-9" />
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-7-6"
+     transform="matrix(0,0.4354605,-0.36868043,0,1746.1192,595.66592)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state13&quot;}">
+    <g
+       id="frame-92-3-0-69-9">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-09-4" />
+    </g>
+    <g
+       id="shape-17-6-3-3-8">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-2-7" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-6-4" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-8-5" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-6-3" />
+    </g>
+    <g
+       id="dark-31-3-5-2-2">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-2-2" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-4-0" />
+    </g>
+    <g
+       id="light-0-43-2-70-6">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-2-1" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-2-6" />
+    </g>
+    <g
+       id="hlight-737-74-6-05-6">
+      <polygon
+         style="fill:#ffffff"
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         id="polygon5877-3-3-62-2" />
+    </g>
+  </g>
+  <g
+     id="g5389-0-19-0-6-1"
+     transform="matrix(0,-0.4645826,1.0810666,0,1734.2836,763.42763)">
+    <g
+       id="frame-5-7-5-7-0-47">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-93-4-1-8" />
+    </g>
+    <g
+       id="shape-56-8-6-4-4-9">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-3-7-8-2" />
+    </g>
+    <g
+       id="dark-5-9-7-5-1-8">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-5-1-3-5" />
+    </g>
+    <g
+       id="light-25-2-2-2-2-5">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-1-8-9-9" />
+    </g>
+    <g
+       id="hlight-07-0-9-2-3-4">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-62-8-4-1" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7-3-0-9"
+     transform="matrix(0,0.32941072,-0.97498776,0,2146.8875,380.87267)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1-03-4-1">
+      <g
+         id="frame-2-77-9-5-4-7-9">
+        <rect
+           id="rect5577-7-6-7-5-0-1"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8-6-4-0">
+        <polygon
+           id="polygon5580-3-9-8-4-8-9"
+           points="25,11.556 1.715,25 98.285,25 75,11.556 75,0 25,0 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1-25-9-5">
+        <polygon
+           id="polygon5583-4-5-6-746-2-8"
+           points="1.715,25 5.88,25 27,12.806 27,0 25,0 25,11.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9-2-2-2"
+           points="73,12.806 94.12,25 98.285,25 75,11.556 75,0 73,0 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8-15-0-3"
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9-0-7-2"
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6-99-6-7"
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3-18-4-7"
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0-4-9-6"
+     inkscape:transform-center-x="-26.665336"
+     inkscape:transform-center-y="-25.221186"
+     transform="matrix(0,0.43825623,-0.36748537,0,1745.3474,595.51635)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state13&quot;}">
+    <g
+       id="frame-1-1-1-9-23-7-6">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4-5-0-0" />
+    </g>
+    <g
+       id="shape-5-76-60-0-2-4-9">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7-4-8-5" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7-2-1-1" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7-98-8-3" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8-2-6-3" />
+    </g>
+    <g
+       id="dark-9-0-84-2-4-6-5">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1-3-0-7" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0-6-7-5" />
+    </g>
+    <g
+       id="light-6-5-4-8-4-2-1">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2-1-5-7" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5-6-9-3">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7-1-3-5" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9-1-0-6" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0-6-5-6" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5-2-6-6">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9-98-1-5" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0-7-2-8" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8-8-9-1" />
+    </g>
+  </g>
+  <g
+     id="g5389-0-19-0-6-1-0"
+     transform="matrix(0,-0.4645826,0.76702087,0,1745.3474,640.56615)">
+    <g
+       id="frame-5-7-5-7-0-47-2">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-93-4-1-8-7" />
+    </g>
+    <g
+       id="shape-56-8-6-4-4-9-0">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-3-7-8-2-8" />
+    </g>
+    <g
+       id="dark-5-9-7-5-1-8-6">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-5-1-3-5-3" />
+    </g>
+    <g
+       id="light-25-2-2-2-2-5-1">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-1-8-9-9-0" />
+    </g>
+    <g
+       id="hlight-07-0-9-2-3-4-4">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-62-8-4-1-1" />
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-7-6-9"
+     transform="matrix(0,0.4354605,-0.36868043,0,1734.3434,718.4617)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state14&quot;}"
+     inkscape:transform-center-x="-23.000532"
+     inkscape:transform-center-y="-29.192983">
+    <g
+       id="frame-92-3-0-69-9-6">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-09-4-2" />
+    </g>
+    <g
+       id="shape-17-6-3-3-8-9">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-2-7-2" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-6-4-9" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-8-5-2" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-6-3-5" />
+    </g>
+    <g
+       id="dark-31-3-5-2-2-4">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-2-2-4" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-4-0-3" />
+    </g>
+    <g
+       id="light-0-43-2-70-6-7">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-2-1-1" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-2-6-6" />
+    </g>
+    <g
+       id="hlight-737-74-6-05-6-9">
+      <polygon
+         style="fill:#ffffff"
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
+         id="polygon5877-3-3-62-2-2" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7-3-0-0"
+     transform="matrix(0,0.32941072,-0.97498776,0,2137.0401,660.03027)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1-03-4-0">
+      <g
+         id="frame-2-77-9-5-4-7-90">
+        <rect
+           id="rect5577-7-6-7-5-0-7"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8-6-4-8">
+        <polygon
+           id="polygon5580-3-9-8-4-8-6"
+           points="1.715,25 98.285,25 75,11.556 75,0 25,0 25,11.556 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1-25-9-4">
+        <polygon
+           id="polygon5583-4-5-6-746-2-3"
+           points="5.88,25 27,12.806 27,0 25,0 25,11.556 1.715,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9-2-2-7"
+           points="94.12,25 98.285,25 75,11.556 75,0 73,0 73,12.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8-15-0-1"
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9-0-7-8"
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6-99-6-3"
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3-18-4-1"
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5389-0-19-0-6-1-7"
+     transform="matrix(0,-0.4645826,1.0810666,0,1735.5,919.72375)">
+    <g
+       id="frame-5-7-5-7-0-47-7">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-93-4-1-8-3" />
+    </g>
+    <g
+       id="shape-56-8-6-4-4-9-1">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-3-7-8-2-7" />
+    </g>
+    <g
+       id="dark-5-9-7-5-1-8-5">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-5-1-3-5-1" />
+    </g>
+    <g
+       id="light-25-2-2-2-2-5-7">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-1-8-9-9-9" />
+    </g>
+    <g
+       id="hlight-07-0-9-2-3-4-7">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-62-8-4-1-16" />
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-7-6-9-0"
+     transform="matrix(0,0.4354605,-0.36868043,0,1735.5598,874.75782)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state15&quot;}"
+     inkscape:transform-center-x="-23.000532"
+     inkscape:transform-center-y="-29.192983">
+    <g
+       id="frame-92-3-0-69-9-6-2">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-09-4-2-9" />
+    </g>
+    <g
+       id="shape-17-6-3-3-8-9-1">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-2-7-2-0" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-6-4-9-1" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-8-5-2-5" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-6-3-5-3" />
+    </g>
+    <g
+       id="dark-31-3-5-2-2-4-2">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-2-2-4-4" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-4-0-3-3" />
+    </g>
+    <g
+       id="light-0-43-2-70-6-7-4">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-2-1-1-0" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-2-6-6-1" />
+    </g>
+    <g
+       id="hlight-737-74-6-05-6-9-4">
+      <polygon
+         style="fill:#ffffff"
+         points="53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 "
+         id="polygon5877-3-3-62-2-2-1" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7-3-0-2"
+     transform="matrix(0,0.32941072,-0.97498776,0,2198.5713,812.48493)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1-03-4-2">
+      <g
+         id="frame-2-77-9-5-4-7-4">
+        <rect
+           id="rect5577-7-6-7-5-0-3"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8-6-4-9">
+        <polygon
+           id="polygon5580-3-9-8-4-8-4"
+           points="98.285,25 75,11.556 75,0 25,0 25,11.556 1.715,25 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1-25-9-0">
+        <polygon
+           id="polygon5583-4-5-6-746-2-4"
+           points="27,12.806 27,0 25,0 25,11.556 1.715,25 5.88,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9-2-2-27"
+           points="98.285,25 75,11.556 75,0 73,0 73,12.806 94.12,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8-15-0-2"
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9-0-7-20"
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6-99-6-79"
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3-18-4-4"
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5389-0-19-0-6-1-6"
+     transform="matrix(0,-0.4645826,0.45604887,0,1797.0312,1072.1784)">
+    <g
+       id="frame-5-7-5-7-0-47-8">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-93-4-1-8-37" />
+    </g>
+    <g
+       id="shape-56-8-6-4-4-9-3">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-3-7-8-2-6" />
+    </g>
+    <g
+       id="dark-5-9-7-5-1-8-8">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-5-1-3-5-7" />
+    </g>
+    <g
+       id="light-25-2-2-2-2-5-3">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-1-8-9-9-5" />
+    </g>
+    <g
+       id="hlight-07-0-9-2-3-4-6">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-62-8-4-1-8" />
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-7-6-9-01"
+     transform="matrix(0,0.4354605,-0.36868043,0,1797.091,1027.2125)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state17&quot;}"
+     inkscape:transform-center-x="-23.000532"
+     inkscape:transform-center-y="-29.192983">
+    <g
+       id="frame-92-3-0-69-9-6-5">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-09-4-2-5" />
+    </g>
+    <g
+       id="shape-17-6-3-3-8-9-16">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-2-7-2-6" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-6-4-9-0" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-8-5-2-4" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-6-3-5-9" />
+    </g>
+    <g
+       id="dark-31-3-5-2-2-4-1">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-2-2-4-8" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-4-0-3-6" />
+    </g>
+    <g
+       id="light-0-43-2-70-6-7-1">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-2-1-1-3" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-2-6-6-5" />
+    </g>
+    <g
+       id="hlight-737-74-6-05-6-9-2">
+      <polygon
+         style="fill:#ffffff"
+         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         id="polygon5877-3-3-62-2-2-3" />
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0-4-9-6-9"
+     inkscape:transform-center-x="-26.665336"
+     inkscape:transform-center-y="-25.221186"
+     transform="matrix(0,0.43825623,-0.36748537,0,1735.5,874.67395)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state15&quot;}">
+    <g
+       id="frame-1-1-1-9-23-7-6-5">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4-5-0-0-0" />
+    </g>
+    <g
+       id="shape-5-76-60-0-2-4-9-7">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7-4-8-5-4" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7-2-1-1-5" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7-98-8-3-7" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8-2-6-3-1" />
+    </g>
+    <g
+       id="dark-9-0-84-2-4-6-5-3">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1-3-0-7-1" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0-6-7-5-5" />
+    </g>
+    <g
+       id="light-6-5-4-8-4-2-1-2">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2-1-5-7-8" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5-6-9-3-4">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7-1-3-5-6" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9-1-0-6-8" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0-6-5-6-8" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5-2-6-6-2">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9-98-1-5-4" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0-7-2-8-3" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8-8-9-1-9" />
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0-4-9-6-0"
+     inkscape:transform-center-x="-26.665336"
+     inkscape:transform-center-y="-25.221186"
+     transform="matrix(0,0.43825623,-0.36748537,0,1797.0312,1027.0126)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state17&quot;}">
+    <g
+       id="frame-1-1-1-9-23-7-6-2">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4-5-0-0-8" />
+    </g>
+    <g
+       id="shape-5-76-60-0-2-4-9-4">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7-4-8-5-2" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7-2-1-1-55" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7-98-8-3-8" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8-2-6-3-7" />
+    </g>
+    <g
+       id="dark-9-0-84-2-4-6-5-2">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1-3-0-7-8" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0-6-7-5-0" />
+    </g>
+    <g
+       id="light-6-5-4-8-4-2-1-5">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2-1-5-7-9" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5-6-9-3-3">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7-1-3-5-0" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9-1-0-6-80" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0-6-5-6-2" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5-2-6-6-4">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9-98-1-5-41" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0-7-2-8-7" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8-8-9-1-1" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7-3-0-0-7"
+     transform="matrix(-0.32941072,0,0,-0.97498776,1868.4287,1526.2345)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1-03-4-0-1">
+      <g
+         id="frame-2-77-9-5-4-7-90-1">
+        <rect
+           id="rect5577-7-6-7-5-0-7-6"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8-6-4-8-2">
+        <polygon
+           id="polygon5580-3-9-8-4-8-6-9"
+           points="1.715,25 98.285,25 75,11.556 75,0 25,0 25,11.556 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1-25-9-4-6">
+        <polygon
+           id="polygon5583-4-5-6-746-2-3-6"
+           points="5.88,25 27,12.806 27,0 25,0 25,11.556 1.715,25 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9-2-2-7-5"
+           points="94.12,25 98.285,25 75,11.556 75,0 73,0 73,12.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8-15-0-1-1"
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9-0-7-8-0"
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6-99-6-3-4"
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3-18-4-1-4"
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5389-0-19-0-6-1-7-9"
+     transform="matrix(0.4645826,0,0,0.47066786,1608.5188,1124.8139)">
+    <g
+       id="frame-5-7-5-7-0-47-7-9">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-93-4-1-8-3-7" />
+    </g>
+    <g
+       id="shape-56-8-6-4-4-9-1-7">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-3-7-8-2-7-4" />
+    </g>
+    <g
+       id="dark-5-9-7-5-1-8-5-6">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-5-1-3-5-1-9" />
+    </g>
+    <g
+       id="light-25-2-2-2-2-5-7-5">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-1-8-9-9-9-9" />
+    </g>
+    <g
+       id="hlight-07-0-9-2-3-4-7-8">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-62-8-4-1-16-4" />
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-7-6-9-0-8"
+     transform="matrix(-0.4354605,0,0,-0.36868043,1653.6229,1124.8139)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state18&quot;}"
+     inkscape:transform-center-x="-29.193029"
+     inkscape:transform-center-y="23.000529">
+    <g
+       id="frame-92-3-0-69-9-6-2-5">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-09-4-2-9-6" />
+    </g>
+    <g
+       id="shape-17-6-3-3-8-9-1-1">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-2-7-2-0-8" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-6-4-9-1-6" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-8-5-2-5-9" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-6-3-5-3-2" />
+    </g>
+    <g
+       id="dark-31-3-5-2-2-4-2-5">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-2-2-4-4-2" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-4-0-3-3-1" />
+    </g>
+    <g
+       id="light-0-43-2-70-6-7-4-5">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-2-1-1-0-8" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-2-6-6-1-3" />
+    </g>
+    <g
+       id="hlight-737-74-6-05-6-9-4-7">
+      <polygon
+         style="fill:#ffffff"
+         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         id="polygon5877-3-3-62-2-2-1-9" />
+    </g>
+  </g>
+  <g
+     id="g5644-8-9-7-3-0-0-7-6"
+     transform="matrix(-0.32941072,0,0,-0.97498776,1740.2189,1462.0401)">
+    <g
+       transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
+       id="g5596-98-0-1-03-4-0-1-8">
+      <g
+         id="frame-2-77-9-5-4-7-90-1-1">
+        <rect
+           id="rect5577-7-6-7-5-0-7-6-4"
+           height="100"
+           width="100"
+           x="0"
+           y="0"
+           style="fill:none" />
+      </g>
+      <g
+         id="shape-8-7-1-8-6-4-8-2-9">
+        <polygon
+           id="polygon5580-3-9-8-4-8-6-9-5"
+           points="75,0 25,0 25,11.556 1.715,25 98.285,25 75,11.556 "
+           style="fill:#a9d1f9" />
+      </g>
+      <g
+         id="dark-33-2-40-1-25-9-4-6-9">
+        <polygon
+           id="polygon5583-4-5-6-746-2-3-6-3"
+           points="25,0 25,11.556 1.715,25 5.88,25 27,12.806 27,0 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5585-05-0-9-2-2-7-5-2"
+           points="75,0 73,0 73,12.806 94.12,25 98.285,25 75,11.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5587-9-0-8-15-0-1-1-2"
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5589-1-6-9-0-7-8-0-0"
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5591-9-3-6-99-6-3-4-5"
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
+           style="fill:#7dabd8" />
+        <polygon
+           id="polygon5593-5-9-3-18-4-1-4-8"
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
+           style="fill:#7dabd8" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g5389-0-19-0-6-1-7-9-0"
+     transform="matrix(0.4645826,0,0,0.88644671,1480.309,1060.6195)">
+    <g
+       id="frame-5-7-5-7-0-47-7-9-3">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5374-4-93-4-1-8-3-7-7" />
+    </g>
+    <g
+       id="shape-56-8-6-4-4-9-1-7-5">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5377-9-3-7-8-2-7-4-1" />
+    </g>
+    <g
+       id="dark-5-9-7-5-1-8-5-6-4">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5380-2-5-1-3-5-1-9-4" />
+    </g>
+    <g
+       id="light-25-2-2-2-2-5-7-5-0">
+      <rect
+         style="fill:#c6e2ff"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5383-4-1-8-9-9-9-9-9" />
+    </g>
+    <g
+       id="hlight-07-0-9-2-3-4-7-8-6">
+      <rect
+         style="fill:#e0efff"
+         y="0"
+         x="46.5"
+         width="7"
+         height="100"
+         id="rect5386-8-62-8-4-1-16-4-0" />
+    </g>
+  </g>
+  <g
+     id="g5880-7-9-7-6-9-0-8-7"
+     transform="matrix(-0.4354605,0,0,-0.36868043,1525.4131,1060.6195)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state19&quot;}"
+     inkscape:transform-center-x="-29.193029"
+     inkscape:transform-center-y="23.000529">
+    <g
+       id="frame-92-3-0-69-9-6-2-5-7">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5855-48-0-09-4-2-9-6-0" />
+    </g>
+    <g
+       id="shape-17-6-3-3-8-9-1-1-5">
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5858-0-2-2-7-2-0-8-2" />
+      <rect
+         style="fill:#00e30b"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5860-6-7-6-4-9-1-6-2" />
+      <rect
+         style="fill:#00e30b"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5862-42-9-8-5-2-5-9-7" />
+      <circle
+         style="fill:#00e30b"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5864-8-3-6-3-5-3-2-9" />
+    </g>
+    <g
+       id="dark-31-3-5-2-2-4-2-5-8">
+      <rect
+         style="fill:#037300"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5867-6-3-2-2-4-4-2-1" />
+      <circle
+         style="fill:#037300"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5869-9-1-4-0-3-3-1-1" />
+    </g>
+    <g
+       id="light-0-43-2-70-6-7-4-5-2">
+      <path
+         style="fill:#96ff94"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5872-4-6-2-1-1-0-8-2" />
+      <rect
+         style="fill:#96ff94"
+         y="0"
+         x="45"
+         width="10"
+         height="100"
+         id="rect5874-8-5-2-6-6-1-3-6" />
+    </g>
+    <g
+       id="hlight-737-74-6-05-6-9-4-7-8">
+      <polygon
+         style="fill:#ffffff"
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         id="polygon5877-3-3-62-2-2-1-9-5" />
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0-4-9-6-0-6"
+     inkscape:transform-center-x="-25.221194"
+     inkscape:transform-center-y="26.665332"
+     transform="matrix(-0.43825623,0,0,-0.36748537,1653.8228,1124.7541)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state18&quot;}">
+    <g
+       id="frame-1-1-1-9-23-7-6-2-8">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4-5-0-0-8-0" />
+    </g>
+    <g
+       id="shape-5-76-60-0-2-4-9-4-9">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7-4-8-5-2-9" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7-2-1-1-55-9" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7-98-8-3-8-9" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8-2-6-3-7-1" />
+    </g>
+    <g
+       id="dark-9-0-84-2-4-6-5-2-1">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1-3-0-7-8-7" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0-6-7-5-0-7" />
+    </g>
+    <g
+       id="light-6-5-4-8-4-2-1-5-4">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2-1-5-7-9-8" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5-6-9-3-3-3">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7-1-3-5-0-0" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9-1-0-6-80-9" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0-6-5-6-2-5" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5-2-6-6-4-0">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9-98-1-5-41-3" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0-7-2-8-7-7" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8-8-9-1-1-3" />
+    </g>
+  </g>
+  <g
+     id="g5206-3-8-0-4-9-6-0-3"
+     inkscape:transform-center-x="-25.221194"
+     inkscape:transform-center-y="26.665332"
+     transform="matrix(-0.43825623,0,0,-0.36748537,1525.613,1060.5597)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state19&quot;}">
+    <g
+       id="frame-1-1-1-9-23-7-6-2-3">
+      <rect
+         style="fill:none"
+         y="0"
+         x="0"
+         width="100"
+         height="100"
+         id="rect5171-3-5-4-5-0-0-8-4" />
+    </g>
+    <g
+       id="shape-5-76-60-0-2-4-9-4-0">
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="40.5"
+         width="19"
+         height="5.6999998"
+         id="rect5174-9-0-7-4-8-5-2-5" />
+      <rect
+         style="fill:#a9d1f9"
+         x="40.5"
+         y="94.300003"
+         width="19"
+         height="5.6999998"
+         id="rect5176-35-3-7-2-1-1-55-8" />
+      <rect
+         style="fill:#a9d1f9"
+         y="0"
+         x="42"
+         width="16"
+         height="100"
+         id="rect5178-2-4-7-98-8-3-8-7" />
+      <circle
+         style="fill:#a9d1f9"
+         cx="50"
+         cy="50"
+         r="27.5"
+         id="circle5180-9-5-8-2-6-3-7-2" />
+    </g>
+    <g
+       id="dark-9-0-84-2-4-6-5-2-6">
+      <rect
+         style="fill:#7dabd8"
+         y="0"
+         x="43"
+         width="14"
+         height="100"
+         id="rect5183-4-7-1-3-0-7-8-8" />
+      <circle
+         style="fill:#7dabd8"
+         cx="50"
+         cy="50"
+         r="26.5"
+         id="circle5185-3-9-0-6-7-5-0-6" />
+    </g>
+    <g
+       id="light-6-5-4-8-4-2-1-5-9">
+      <path
+         style="fill:#c6e2ff"
+         inkscape:connector-curvature="0"
+         d="M 71.5,50 C 71.5,38.1 61.9,28.5 50,28.5 38.1,28.5 28.5,38.1 28.5,50 28.5,61.9 38.1,71.5 50,71.5 61.9,71.5 71.5,61.9 71.5,50 Z M 30,50 C 30,39 39,30 50,30 61,30 70,39 70,50 70,61 61,70 50,70 39,70 30,61 30,50 Z"
+         id="path5188-15-69-2-1-5-7-9-7" />
+      <g
+         style="fill:#c6e2ff"
+         id="g5196-3-1-5-6-9-3-3-6">
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,100 V 69.3 C 53.4,69.7 51.7,70 50,70 48.3,70 46.6,69.8 45,69.3 V 100 Z"
+           id="path5190-2-7-7-1-3-5-0-3" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="M 55,30.7 V 0 H 45 v 30.7 c 1.6,-0.4 3.3,-0.7 5,-0.7 1.7,0 3.4,0.2 5,0.7 z"
+           id="path5192-8-6-9-1-0-6-80-4" />
+        <path
+           style="fill:#c6e2ff"
+           inkscape:connector-curvature="0"
+           d="m 30.7,55 h 38.7 c 0.4,-1.6 0.7,-3.3 0.7,-5 0,-1.7 -0.2,-3.4 -0.7,-5 H 30.7 c -0.4,1.6 -0.7,3.3 -0.7,5 0,1.7 0.2,3.4 0.7,5 z"
+           id="path5194-10-7-0-6-5-6-2-55" />
+      </g>
+    </g>
+    <g
+       id="hlight-78-3-2-5-2-6-6-4-2">
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 50,28.5 c 1.2,0 2.4,0.1 3.5,0.3 V 0 h -7 v 28.8 c 1.1,-0.2 2.3,-0.3 3.5,-0.3 z"
+         id="path5199-5-4-9-98-1-5-41-2" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="M 30.3,46.5 C 30.1,47.6 30,48.8 30,50 c 0,1.2 0.1,2.4 0.3,3.5 H 31 69.6 c 0.2,-1.1 0.3,-2.3 0.3,-3.5 0,-1.2 -0.1,-2.4 -0.3,-3.5 H 30.8 Z"
+         id="path5201-9-93-0-7-2-8-7-75" />
+      <path
+         style="fill:#e0efff"
+         inkscape:connector-curvature="0"
+         d="m 53.5,73.4 v -2.2 c -1.1,0.2 -2.3,0.3 -3.5,0.3 -1.2,0 -2.4,-0.1 -3.5,-0.3 v 2 26.8 h 7 z"
+         id="path5203-8-14-8-8-9-1-1-0" />
     </g>
   </g>
 </svg>
