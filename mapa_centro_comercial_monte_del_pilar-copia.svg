@@ -51,9 +51,9 @@
      inkscape:window-height="1017"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="3.1972784"
-     inkscape:cx="355.35356"
-     inkscape:cy="945.10021"
+     inkscape:zoom="6.3945568"
+     inkscape:cx="323.95719"
+     inkscape:cy="954.60723"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1728,7 +1728,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-2"
-     transform="matrix(0.38198551,0,0,0.41718147,499.01777,419.22708)"
+     transform="matrix(0.38198551,0,0,0.41718147,498.07703,417.66566)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state3&quot;}">
     <g
        id="shape-7-4">
@@ -6669,34 +6669,34 @@ JeMAAAAASUVORK5CYII=
          id="shape-8-8-41-8-5">
         <polygon
            id="polygon5580-1-2-2-6"
-           points="1.715,25 98.285,25 75,11.556 75,0 25,0 25,11.556 "
+           points="75,11.556 75,0 25,0 25,11.556 1.715,25 98.285,25 "
            style="fill:#a9d1f9" />
       </g>
       <g
          id="dark-33-1-0-0-0">
         <polygon
            id="polygon5583-8-9-1-4"
-           points="5.88,25 27,12.806 27,0 25,0 25,11.556 1.715,25 "
+           points="27,0 25,0 25,11.556 1.715,25 5.88,25 27,12.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5585-0-5-7-6"
-           points="94.12,25 98.285,25 75,11.556 75,0 73,0 73,12.806 "
+           points="75,11.556 75,0 73,0 73,12.806 94.12,25 98.285,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7"
-           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5"
-           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1"
-           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6"
-           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
            style="fill:#7dabd8" />
       </g>
     </g>
@@ -23065,67 +23065,56 @@ JeMAAAAASUVORK5CYII=
       </g>
     </g>
   </g>
-  <g
-     id="g28789">
-    <g
-       transform="translate(-5.0042561,-0.62553202)"
-       id="g28750">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-         x="330.44946"
-         y="465.18036"
-         id="text28718"
-         transform="scale(0.91452922,1.0934588)"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_32&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-           sodipodi:role="line"
-           id="tspan28716"
-           x="330.44946"
-           y="465.18036"
-           style="stroke-width:0.39003769">%s</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-         x="363.96628"
-         y="464.86078"
-         id="text28718-8"
-         transform="scale(0.9145292,1.0934588)"
-         inkscape:label=""><tspan
-           sodipodi:role="line"
-           id="tspan28716-4"
-           x="363.96628"
-           y="464.86078"
-           style="stroke-width:0.39003769">ºC</tspan></text>
-    </g>
-    <g
-       transform="translate(-3.5535626,16.468033)"
-       id="g28750-9">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-         x="330.44946"
-         y="465.18036"
-         id="text28718-2"
-         transform="scale(0.91452922,1.0934588)"
-         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_32&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-           sodipodi:role="line"
-           id="tspan28716-45"
-           x="330.44946"
-           y="465.18036"
-           style="stroke-width:0.39003769">%s</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-         x="363.96628"
-         y="464.86078"
-         id="text28718-8-7"
-         transform="scale(0.9145292,1.0934588)"
-         inkscape:label=""><tspan
-           sodipodi:role="line"
-           id="tspan28716-4-9"
-           x="363.96628"
-           y="464.86078"
-           style="stroke-width:0.39003769">%</tspan></text>
-    </g>
-  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+     x="322.58356"
+     y="464.4653"
+     id="text28718"
+     transform="scale(0.9145292,1.0934588)"
+     inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_32&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+       sodipodi:role="line"
+       id="tspan28716"
+       x="322.58356"
+       y="464.4653"
+       style="stroke-width:0.39003769">%2.2f</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+     x="381.40814"
+     y="464.00269"
+     id="text28718-8"
+     transform="scale(0.9145292,1.0934588)"
+     inkscape:label=""><tspan
+       sodipodi:role="line"
+       id="tspan28716-4"
+       x="381.40814"
+       y="464.00269"
+       style="stroke-width:0.39003769">ºC</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+     x="322.63083"
+     y="479.81183"
+     id="text28718-2"
+     transform="scale(0.9145292,1.0934588)"
+     inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_32&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+       sodipodi:role="line"
+       id="tspan28716-45"
+       x="322.63083"
+       y="479.81183"
+       style="stroke-width:0.39003769">%2.2f</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+     x="373.58948"
+     y="479.34921"
+     id="text28718-8-7"
+     transform="scale(0.9145292,1.0934588)"
+     inkscape:label=""><tspan
+       sodipodi:role="line"
+       id="tspan28716-4-9"
+       x="373.58948"
+       y="479.34921"
+       style="stroke-width:0.39003769">%H</tspan></text>
 </svg>
