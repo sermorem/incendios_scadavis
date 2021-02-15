@@ -51,9 +51,9 @@
      inkscape:window-height="1017"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="0.28260215"
-     inkscape:cx="862.99411"
-     inkscape:cy="803.74266"
+     inkscape:zoom="3.1972784"
+     inkscape:cx="355.35356"
+     inkscape:cy="945.10021"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -23065,17 +23065,67 @@ JeMAAAAASUVORK5CYII=
       </g>
     </g>
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:34.03373718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.85084343"
-     x="312.93274"
-     y="502.96988"
-     id="text28718"
-     transform="scale(0.96440561,1.0369081)"
-     inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;sensor32&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
-       sodipodi:role="line"
-       id="tspan28716"
-       x="312.93274"
-       y="502.96988"
-       style="stroke-width:0.85084343">%s</tspan></text>
+  <g
+     id="g28789">
+    <g
+       transform="translate(-5.0042561,-0.62553202)"
+       id="g28750">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+         x="330.44946"
+         y="465.18036"
+         id="text28718"
+         transform="scale(0.91452922,1.0934588)"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_32&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan28716"
+           x="330.44946"
+           y="465.18036"
+           style="stroke-width:0.39003769">%s</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+         x="363.96628"
+         y="464.86078"
+         id="text28718-8"
+         transform="scale(0.9145292,1.0934588)"
+         inkscape:label=""><tspan
+           sodipodi:role="line"
+           id="tspan28716-4"
+           x="363.96628"
+           y="464.86078"
+           style="stroke-width:0.39003769">ºC</tspan></text>
+    </g>
+    <g
+       transform="translate(-3.5535626,16.468033)"
+       id="g28750-9">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+         x="330.44946"
+         y="465.18036"
+         id="text28718-2"
+         transform="scale(0.91452922,1.0934588)"
+         inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_32&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+           sodipodi:role="line"
+           id="tspan28716-45"
+           x="330.44946"
+           y="465.18036"
+           style="stroke-width:0.39003769">%s</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+         x="363.96628"
+         y="464.86078"
+         id="text28718-8-7"
+         transform="scale(0.9145292,1.0934588)"
+         inkscape:label=""><tspan
+           sodipodi:role="line"
+           id="tspan28716-4-9"
+           x="363.96628"
+           y="464.86078"
+           style="stroke-width:0.39003769">%</tspan></text>
+    </g>
+  </g>
 </svg>
