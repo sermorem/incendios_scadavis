@@ -45,8 +45,8 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="1.5986392"
-     inkscape:cx="85.959401"
-     inkscape:cy="726.56632"
+     inkscape:cx="392.47009"
+     inkscape:cy="890.45571"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -22173,62 +22173,6 @@
          sodipodi:role="line">%H</tspan></text>
   </g>
   <g
-     id="g28838-57"
-     transform="matrix(0.8697472,0,0,0.96596332,118.90284,-39.308341)">
-    <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_30&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-5"
-       y="464.4653"
-       x="322.58356"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="464.4653"
-         x="322.58356"
-         id="tspan28716-148"
-         sodipodi:role="line">%2.2f</tspan></text>
-    <text
-       inkscape:label=""
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-8-9"
-       y="463.74118"
-       x="381.25052"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="463.74118"
-         x="381.25052"
-         id="tspan28716-4-781"
-         sodipodi:role="line">ºC</tspan></text>
-    <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_30&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-2-4"
-       y="479.81183"
-       x="322.63083"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="479.81183"
-         x="322.63083"
-         id="tspan28716-45-35"
-         sodipodi:role="line">%2.2f</tspan></text>
-    <text
-       inkscape:label=""
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-8-7-0"
-       y="479.34921"
-       x="373.58948"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="479.34921"
-         x="373.58948"
-         id="tspan28716-4-9-43"
-         sodipodi:role="line">%H</tspan></text>
-  </g>
-  <g
      id="g28838-57-4"
      transform="matrix(0.857162,0,0,0.98047716,148.56808,-201.98601)">
     <text
@@ -24194,5 +24138,61 @@
          x="169.12384"
          id="tspan9987"
          sodipodi:role="line">L</tspan></text>
+  </g>
+  <g
+     id="g28838-57-7-1-7"
+     transform="matrix(0.8953648,0,0,0.93444544,109.11625,-21.938681)">
+    <text
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_7&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-5-4-2-0"
+       y="464.4653"
+       x="322.58356"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="464.4653"
+         x="322.58356"
+         id="tspan28716-148-0-3-6"
+         sodipodi:role="line">%2.2f</tspan></text>
+    <text
+       inkscape:label=""
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-8-9-92-5-2"
+       y="463.74118"
+       x="381.25052"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="463.74118"
+         x="381.25052"
+         id="tspan28716-4-781-2-1-5"
+         sodipodi:role="line">ºC</tspan></text>
+    <text
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_7&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-2-4-5-9-1"
+       y="479.81183"
+       x="322.63083"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="479.81183"
+         x="322.63083"
+         id="tspan28716-45-35-7-0-2"
+         sodipodi:role="line">%2.2f</tspan></text>
+    <text
+       inkscape:label=""
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-8-7-0-83-86-5"
+       y="479.34921"
+       x="373.58948"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="479.34921"
+         x="373.58948"
+         id="tspan28716-4-9-43-2-4-7"
+         sodipodi:role="line">%H</tspan></text>
   </g>
 </svg>
