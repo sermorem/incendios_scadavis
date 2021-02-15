@@ -51,16 +51,16 @@
      inkscape:window-height="1017"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="1.1304086"
-     inkscape:cx="388.14194"
-     inkscape:cy="836.62629"
+     inkscape:zoom="0.28260215"
+     inkscape:cx="862.99411"
+     inkscape:cy="803.74266"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg10" />
   <image
      y="6.1176453"
-     x="39.82645"
+     x="2.1616499"
      id="image12381"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAuoAAAHOCAYAAADOsiwbAAAABGdBTUEAALGPC/xhBQAAAAFzUkdC
 AK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAAlwSFlz
@@ -1259,11 +1259,11 @@ jCwUWO84+dYTc3KNPExejCTD72Eo68i/vp3Iz0B57W4VGVlYTuhL9H0ZuVu/i+TKyv8Ba7hJWRvK
 JeMAAAAASUVORK5CYII=
 "
      preserveAspectRatio="none"
-     height="1369.845"
-     width="2057.5361" />
+     height="1447.6929"
+     width="2194.28" />
   <g
      id="g3006"
-     transform="matrix(0.35017444,0,0,0.3928907,335.4356,222.0283)"
+     transform="matrix(0.37344706,0,0,0.41521858,317.41701,234.29845)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state1&quot;}">
     <g
        id="shape">
@@ -1356,7 +1356,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160"
-     transform="matrix(0.35818079,0,0,0.39474804,335.0353,219.70799)"
+     transform="matrix(0.38198551,0,0,0.41718147,316.9901,231.84628)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state1&quot;}">
     <g
        id="shape-7">
@@ -1449,7 +1449,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-6"
-     transform="matrix(0.35017444,0,0,0.3928907,414.9889,319.60779)"
+     transform="matrix(0.37344706,0,0,0.41521858,402.25742,337.42336)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state2&quot;}">
     <g
        id="shape-6">
@@ -1542,7 +1542,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-6"
-     transform="matrix(0.35818079,0,0,0.39474804,414.5886,319.52017)"
+     transform="matrix(0.38198551,0,0,0.41718147,401.83052,337.33076)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state2&quot;}">
     <g
        id="shape-7-3">
@@ -1635,7 +1635,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-65"
-     transform="matrix(0.35017444,0,0,0.3928907,505.2375,395.63328)"
+     transform="matrix(0.37344706,0,0,0.41521858,498.50395,417.76936)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state3&quot;}">
     <g
        id="shape-4">
@@ -1728,7 +1728,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-2"
-     transform="matrix(0.35818079,0,0,0.39474804,505.7193,397.01261)"
+     transform="matrix(0.38198551,0,0,0.41718147,499.01777,419.22708)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state3&quot;}">
     <g
        id="shape-7-4">
@@ -1821,7 +1821,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-8"
-     transform="matrix(0.35017444,0,0,0.3928907,639.39588,398.07759)"
+     transform="matrix(0.37344706,0,0,0.41521858,641.57851,420.35258)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state4&quot;}">
     <g
        id="shape-1">
@@ -1914,7 +1914,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-7"
-     transform="matrix(0.35818079,0,0,0.39474804,637.98263,396.87363)"
+     transform="matrix(0.38198551,0,0,0.41718147,640.07134,419.0802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state4&quot;}">
     <g
        id="shape-7-7">
@@ -2007,7 +2007,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-2"
-     transform="matrix(0.35017444,0,0,0.3928907,802.08985,397.45792)"
+     transform="matrix(0.37344706,0,0,0.41521858,815.08513,419.69769)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state5&quot;}">
     <g
        id="shape-78">
@@ -2100,7 +2100,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5"
-     transform="matrix(0.35818079,0,0,0.39474804,801.68953,395.13761)"
+     transform="matrix(0.38198551,0,0,0.41718147,814.65821,417.24552)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state5&quot;}">
     <g
        id="shape-7-8">
@@ -2193,7 +2193,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-89"
-     transform="matrix(0.35017444,0,0,0.3928907,338.2775,325.73888)"
+     transform="matrix(0.37344706,0,0,0.41521858,320.44778,343.90288)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state31&quot;}">
     <g
        id="shape-9">
@@ -2286,7 +2286,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-4"
-     transform="matrix(0.35818079,0,0,0.39474804,337.8546,325.64601)"
+     transform="matrix(0.38198551,0,0,0.41718147,319.99677,343.80473)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state31&quot;}">
     <g
        id="shape-7-5">
@@ -2379,7 +2379,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-1"
-     transform="matrix(0.35818079,0,0,0.39474804,389.7702,410.25502)"
+     transform="matrix(0.38198551,0,0,0.41718147,375.36269,433.22205)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state30&quot;}">
     <g
        id="shape-7-1">
@@ -2472,7 +2472,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3"
-     transform="matrix(0.35017444,0,0,0.3928907,389.8006,411.93843)"
+     transform="matrix(0.37344706,0,0,0.41521858,375.39511,435.00113)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state30&quot;}">
     <g
        id="shape-73">
@@ -2565,7 +2565,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g4955"
-     transform="matrix(0.5892101,0,0,0.65739998,406.4416,114.16508)">
+     transform="matrix(0.62836905,0,0,0.69475986,393.14207,120.30539)">
     <g
        id="frame-6">
       <rect
@@ -2580,36 +2580,36 @@ JeMAAAAASUVORK5CYII=
        id="shape-48">
       <polygon
          style="fill:#a9d1f9"
-         points="100,58 100,42 0,42 0,58 42,58 42,100 58,100 58,58 "
+         points="42,100 58,100 58,58 100,58 100,42 0,42 0,58 42,58 "
          id="polygon4943" />
     </g>
     <g
        id="dark-44">
       <polygon
          style="fill:#7dabd8"
-         points="100,57 100,43 0,43 0,57 43,57 43,100 57,100 57,57 "
+         points="43,100 57,100 57,57 100,57 100,43 0,43 0,57 43,57 "
          id="polygon4946" />
     </g>
     <g
        id="light-3">
       <polygon
          style="fill:#c6e2ff"
-         points="100,55 100,45 0,45 0,55 45,55 45,100 55,100 55,55 "
+         points="45,100 55,100 55,55 100,55 100,45 0,45 0,55 45,55 "
          id="polygon4949" />
     </g>
     <g
        id="hlight-62">
       <polygon
          style="fill:#e0efff"
-         points="100,53.5 100,46.5 0,46.5 0,53.5 46.5,53.5 46.5,100 53.5,100 53.5,53.5 "
+         points="46.5,100 53.5,100 53.5,53.5 100,53.5 100,46.5 0,46.5 0,53.5 46.5,53.5 "
          id="polygon4952" />
     </g>
   </g>
   <g
      id="g5206"
-     inkscape:transform-center-x="32.162631"
-     inkscape:transform-center-y="-36.961591"
-     transform="matrix(0.55887443,0,0,0.5093814,492.6831,176.41475)"
+     inkscape:transform-center-x="34.300159"
+     inkscape:transform-center-y="-39.062112"
+     transform="matrix(0.59601727,0,0,0.53832942,485.11519,186.09269)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state3&quot;}">
     <g
        id="frame-1">
@@ -2715,9 +2715,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-8"
-     inkscape:transform-center-x="32.162632"
-     inkscape:transform-center-y="-36.961584"
-     transform="matrix(0.55887443,0,0,0.5093814,408.0646,179.90508)"
+     inkscape:transform-center-x="34.300167"
+     inkscape:transform-center-y="-39.062099"
+     transform="matrix(0.59601727,0,0,0.53832942,394.87293,189.78138)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state2&quot;}">
     <g
        id="frame-1-0">
@@ -2823,7 +2823,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-8"
-     transform="matrix(0,0.67782919,-0.21444482,0,486.8071,113.04147)">
+     transform="matrix(0,0.71635006,-0.22869684,0,478.84867,119.11792)">
     <g
        id="frame-5-0">
       <rect
@@ -2877,7 +2877,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644"
-     transform="matrix(0.42007213,0,0,1.3514569,218.9066,-380.17081)">
+     transform="matrix(0.44799016,0,0,1.4282599,193.14348,-402.12349)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596">
@@ -2910,26 +2910,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5644-3"
-     transform="matrix(0.42007213,0,0,1.3514569,134.6418,-376.68049)">
+     transform="matrix(0.44799016,0,0,1.4282599,103.27844,-398.43481)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9">
@@ -2962,26 +2962,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1"
-           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2"
-           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3"
-           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9"
-           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5880"
-     transform="matrix(0.55530925,0,0,0.5110379,492.79,176.33193)"
+     transform="matrix(0.59221515,0,0,0.54008006,485.22919,186.00517)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state3&quot;}">
     <g
        id="frame-92">
@@ -3058,13 +3058,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
          id="polygon5877" />
     </g>
   </g>
   <g
      id="g5880-3"
-     transform="matrix(0.55530925,0,0,0.5110379,408.3195,179.82226)"
+     transform="matrix(0.59221515,0,0,0.54008006,395.14477,189.69385)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state2&quot;}">
     <g
        id="frame-92-1">
@@ -3141,13 +3141,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-7">
       <polygon
          style="fill:#ffffff"
-         points="53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 "
+         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
          id="polygon5877-9" />
     </g>
   </g>
   <g
      id="g5389-0"
-     transform="matrix(0,0.64397049,-1.1868227,0,406.4416,114.78955)">
+     transform="matrix(0,0.68056718,-1.265699,0,393.14207,120.96535)">
     <g
        id="frame-5-7">
       <rect
@@ -3201,7 +3201,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g6102"
-     transform="matrix(0.63507452,0,0,0.65470376,224.2519,114.21532)">
+     transform="matrix(0.67728162,0,0,0.69191042,198.84403,120.35848)">
     <g
        id="frame-62">
       <rect
@@ -3247,7 +3247,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-4"
-     transform="matrix(0.53838762,0,0,0.15851646,273.0255,149.54876)">
+     transform="matrix(0.5741689,0,0,0.16752491,250.85912,157.69992)">
     <g
        id="frame-5-3">
       <rect
@@ -3301,7 +3301,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-2"
-     transform="matrix(0.55530925,0,0,0.5110379,272.1202,165.40041)"
+     transform="matrix(0.59221515,0,0,0.54008006,249.89366,174.45241)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state1&quot;}">
     <g
        id="frame-92-19">
@@ -3378,15 +3378,15 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-0">
       <polygon
          style="fill:#ffffff"
-         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
          id="polygon5877-8" />
     </g>
   </g>
   <g
      id="g5206-7"
-     inkscape:transform-center-x="32.162628"
-     inkscape:transform-center-y="-36.961587"
-     transform="matrix(0.55887443,0,0,0.5093814,272.0133,165.48323)"
+     inkscape:transform-center-x="34.300163"
+     inkscape:transform-center-y="-39.062102"
+     transform="matrix(0.59601727,0,0,0.53832942,249.77965,174.53994)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state1&quot;}">
     <g
        id="frame-1-3">
@@ -3492,7 +3492,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-7"
-     transform="matrix(0.42007213,0,0,1.3514569,-1.8836,-391.0195)">
+     transform="matrix(0.44799016,0,0,1.4282599,-42.320454,-413.58871)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-0">
@@ -3525,26 +3525,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-2"
-           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-9"
-           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-6"
-           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-0"
-           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-9"
-     transform="matrix(0.62036567,0,0,4.3402738,224.8697,179.68571)">
+     transform="matrix(0.66159522,0,0,4.5869305,199.50289,189.54954)">
     <g
        id="frame-5-7-9">
       <rect
@@ -3598,7 +3598,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-7"
-     transform="matrix(0,0.58327581,-0.17774129,0,276.9595,286.26345)">
+     transform="matrix(0,0.61642323,-0.18955399,0,255.05458,302.18407)">
     <g
        id="frame-5-7-2">
       <rect
@@ -3652,9 +3652,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-5"
-     inkscape:transform-center-x="34.004287"
-     inkscape:transform-center-y="34.95976"
-     transform="matrix(0,-0.6074788,0.4686258,0,276.9595,345.92219)"
+     inkscape:transform-center-x="36.264213"
+     inkscape:transform-center-y="36.946515"
+     transform="matrix(0,-0.64200167,0.49977071,0,255.05458,365.2332)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state31&quot;}">
     <g
        id="frame-1-8">
@@ -3760,7 +3760,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-9"
-     transform="matrix(0,-0.4566051,1.2433268,0,-235.0936,643.12405)">
+     transform="matrix(0,-0.48255386,1.3259584,0,-291.02961,679.32497)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1">
@@ -3793,26 +3793,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9"
-           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
+           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4"
-           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
+           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63"
-           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
+           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1"
-           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
+           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5880-4"
-     transform="matrix(0,0.60360356,-0.47014977,0,323.8221,285.94454)"
+     transform="matrix(0,0.6379062,-0.50139596,0,305.03167,301.84703)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state31&quot;}">
     <g
        id="frame-92-9">
@@ -3889,13 +3889,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4" />
     </g>
   </g>
   <g
      id="g5880-25"
-     transform="matrix(0,0.60360356,-0.47014977,0,333.0821,405.364)"
+     transform="matrix(0,0.6379062,-0.50139596,0,314.90709,428.05307)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state30&quot;}">
     <g
        id="frame-92-2">
@@ -3972,15 +3972,15 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-9">
       <polygon
          style="fill:#ffffff"
-         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
          id="polygon5877-90" />
     </g>
   </g>
   <g
      id="g5206-6"
-     inkscape:transform-center-x="-34.004293"
-     inkscape:transform-center-y="-34.959762"
-     transform="matrix(0,0.6074788,-0.4686258,0,333.006,405.24775)"
+     inkscape:transform-center-x="-36.264217"
+     inkscape:transform-center-y="-36.946513"
+     transform="matrix(0,0.64200167,-0.49977071,0,314.82593,427.93022)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state30&quot;}">
     <g
        id="frame-1-80">
@@ -4086,7 +4086,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-9-2"
-     transform="matrix(0,-0.4566051,1.2433268,0,-225.8336,762.48537)">
+     transform="matrix(0,-0.48255386,1.3259584,0,-281.15419,805.46956)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6">
@@ -4119,26 +4119,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3"
-           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0"
-           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0"
-           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8"
-           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-1"
-     transform="matrix(0,0.64397049,-3.1568322,0,802.5535,114.34518)">
+     transform="matrix(0,0.68056718,-3.3666355,0,815.5796,120.49572)">
     <g
        id="frame-5-7-95">
       <rect
@@ -4192,7 +4192,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19"
-     transform="matrix(-0.59244642,0,0,-0.46234175,688.8696,194.07103)">
+     transform="matrix(-0.63182046,0,0,-0.48861652,694.34026,204.75238)">
     <g
        id="frame-5-7-5">
       <rect
@@ -4246,7 +4246,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-31"
-     transform="matrix(0.55530925,0,0,0.5110379,631.6118,194.07103)"
+     transform="matrix(0.59221515,0,0,0.54008006,633.2771,204.75238)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state4&quot;}">
     <g
        id="frame-92-7">
@@ -4323,15 +4323,15 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-5">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-47" />
     </g>
   </g>
   <g
      id="g5206-3"
-     inkscape:transform-center-x="32.16263"
-     inkscape:transform-center-y="-36.96159"
-     transform="matrix(0.55887443,0,0,0.5093814,631.3569,194.15385)"
+     inkscape:transform-center-x="34.300159"
+     inkscape:transform-center-y="-39.06211"
+     transform="matrix(0.59601727,0,0,0.53832942,633.00526,204.8399)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state4&quot;}">
     <g
        id="frame-1-1">
@@ -4437,7 +4437,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8"
-     transform="matrix(0.42007213,0,0,1.3514569,358.0393,-362.34887)">
+     transform="matrix(0.44799016,0,0,1.4282599,341.52295,-383.28873)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98">
@@ -4470,28 +4470,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9"
-           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
+           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1"
-           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
+           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9"
-           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
+           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5"
-           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
+           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-5"
-     inkscape:transform-center-x="32.162629"
-     inkscape:transform-center-y="-36.961586"
-     transform="matrix(0.55887443,0,0,0.5093814,804.8779,181.39407)"
+     inkscape:transform-center-x="34.300158"
+     inkscape:transform-center-y="-39.0621"
+     transform="matrix(0.59601727,0,0,0.53832942,818.05848,191.35499)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state5&quot;}">
     <g
        id="frame-1-1-7">
@@ -4597,7 +4597,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-7"
-     transform="matrix(0.55530925,0,0,0.5110379,805.1328,181.31125)"
+     transform="matrix(0.59221515,0,0,0.54008006,818.33032,191.26746)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state5&quot;}">
     <g
        id="frame-92-3">
@@ -4674,13 +4674,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-3" />
     </g>
   </g>
   <g
      id="g5644-8-4"
-     transform="matrix(0.42007213,0,0,1.3514569,530.1456,-373.32584)">
+     transform="matrix(0.44799016,0,0,1.4282599,525.06745,-394.88952)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-8">
@@ -4713,26 +4713,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-1"
-           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-1"
-           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-9"
-           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-8"
-           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g3160-11"
-     transform="matrix(0.35818079,0,0,0.39474804,280.3437,487.50673)"
+     transform="matrix(0.38198551,0,0,0.41718147,258.66369,514.86395)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-7-87">
@@ -4825,7 +4825,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-83"
-     transform="matrix(0.35017444,0,0,0.3928907,280.744,487.60486)"
+     transform="matrix(0.37344706,0,0,0.41521858,259.0906,514.96766)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-14">
@@ -4918,9 +4918,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-6-8"
-     inkscape:transform-center-x="-32.16263"
-     inkscape:transform-center-y="36.961576"
-     transform="matrix(-0.55887443,0,0,-0.5093814,376.5012,576.94243)"
+     inkscape:transform-center-x="-34.300163"
+     inkscape:transform-center-y="39.06209"
+     transform="matrix(-0.59601727,0,0,-0.53832942,361.21183,609.38226)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-1-80-7">
@@ -5026,7 +5026,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6"
-     transform="matrix(-0.55530925,0,0,-0.5110379,375.47215,577.04439)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,360.11439,609.49002)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-92-9-3">
@@ -5103,13 +5103,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1" />
     </g>
   </g>
   <g
      id="g3006-83-9"
-     transform="matrix(0.35017444,0,0,0.3928907,667.6851,482.69472)"
+     transform="matrix(0.37344706,0,0,0.41521858,671.74783,509.77848)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-14-4">
@@ -5202,7 +5202,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-83-93"
-     transform="matrix(0.35017444,0,0,0.3928907,1070.4197,490.05205)"
+     transform="matrix(0.37344706,0,0,0.41521858,1101.2482,517.55392)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-14-47">
@@ -5295,7 +5295,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-83-4"
-     transform="matrix(0.35017444,0,0,0.3928907,1351.1805,493.47395)"
+     transform="matrix(0.37344706,0,0,0.41521858,1400.6684,521.17029)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-14-5">
@@ -5388,7 +5388,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-83-98"
-     transform="matrix(0.35017444,0,0,0.3928907,671.5461,840.30067)"
+     transform="matrix(0.37344706,0,0,0.41521858,675.86544,887.70709)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-14-44">
@@ -5481,7 +5481,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-83-8"
-     transform="matrix(0.35017444,0,0,0.3928907,1059.2249,836.8324)"
+     transform="matrix(0.37344706,0,0,0.41521858,1089.3094,884.04172)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-14-6">
@@ -5574,7 +5574,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-83-0"
-     transform="matrix(0.35017444,0,0,0.3928907,1347.9897,833.36415)"
+     transform="matrix(0.37344706,0,0,0.41521858,1397.2655,880.37637)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-14-9">
@@ -5667,7 +5667,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-83-2"
-     transform="matrix(0.35017444,0,0,0.3928907,1372.4315,1111.9609)"
+     transform="matrix(0.37344706,0,0,0.41521858,1423.3317,1174.8057)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-14-65">
@@ -5760,7 +5760,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-11-0"
-     transform="matrix(0.35818079,0,0,0.39474804,667.4159,482.95731)"
+     transform="matrix(0.38198551,0,0,0.41718147,671.46074,510.05599)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-7-87-9">
@@ -5853,7 +5853,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-11-9"
-     transform="matrix(0.35818079,0,0,0.39474804,672.7791,840.84471)"
+     transform="matrix(0.38198551,0,0,0.41718147,677.18038,888.28205)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-7-87-5">
@@ -5946,7 +5946,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-11-3"
-     transform="matrix(0.35818079,0,0,0.39474804,1069.7564,490.01494)"
+     transform="matrix(0.38198551,0,0,0.41718147,1100.5408,517.51471)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-7-87-4">
@@ -6039,7 +6039,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-11-2"
-     transform="matrix(0.35818079,0,0,0.39474804,1058.8246,836.73428)"
+     transform="matrix(0.38198551,0,0,0.41718147,1088.8825,883.93802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-7-87-7">
@@ -6132,7 +6132,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-11-03"
-     transform="matrix(0.35818079,0,0,0.39474804,1349.7898,492.26474)"
+     transform="matrix(0.38198551,0,0,0.41718147,1399.1852,519.89236)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-7-87-8">
@@ -6225,7 +6225,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-11-5"
-     transform="matrix(0.35818079,0,0,0.39474804,1347.5667,833.27128)"
+     transform="matrix(0.38198551,0,0,0.41718147,1396.8144,880.27822)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-7-87-1">
@@ -6318,7 +6318,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-11-8"
-     transform="matrix(0.35818079,0,0,0.39474804,1371.0409,1110.7517)"
+     transform="matrix(0.38198551,0,0,0.41718147,1421.8487,1173.5278)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-7-87-6">
@@ -6411,7 +6411,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5"
-     transform="matrix(-0.59244642,0,0,-0.39695984,378.0623,616.63842)">
+     transform="matrix(-0.63182046,0,0,-0.41951897,362.87668,651.33417)">
     <g
        id="frame-5-7-6">
       <rect
@@ -6465,7 +6465,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-83-04"
-     transform="matrix(0.35017444,0,0,0.3928907,386.7698,731.05026)"
+     transform="matrix(0.37344706,0,0,0.41521858,372.16288,772.248)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-14-8">
@@ -6558,7 +6558,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-11-0-3"
-     transform="matrix(0.35818079,0,0,0.39474804,386.3468,730.95739)"
+     transform="matrix(0.38198551,0,0,0.41718147,371.71177,772.14986)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="shape-7-87-9-0">
@@ -6651,7 +6651,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-9-2-2"
-     transform="matrix(-0.42007213,0,0,-1.3514569,650.2198,1133.5278)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,653.12179,1197.5982)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6-5">
@@ -6684,26 +6684,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-5-6"
-     transform="matrix(-0.59244642,0,0,-0.39695984,486.3743,658.91054)">
+     transform="matrix(-0.63182046,0,0,-0.41951897,478.3871,696.0086)">
     <g
        id="frame-5-7-6-0">
       <rect
@@ -6757,9 +6757,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-6-8-3"
-     inkscape:transform-center-x="-32.162634"
-     inkscape:transform-center-y="36.961574"
-     transform="matrix(-0.55887443,0,0,-0.5093814,484.5782,709.84868)"
+     inkscape:transform-center-x="-34.300161"
+     inkscape:transform-center-y="39.062088"
+     transform="matrix(-0.59601727,0,0,-0.53832942,476.47163,749.84154)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-1-80-7-4">
@@ -6865,7 +6865,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-9-2-2-9"
-     transform="matrix(0.42007213,0,0,1.3514569,154.4133,102.32499)">
+     transform="matrix(0.44799016,0,0,1.4282599,124.36395,107.79243)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6-5-0">
@@ -6898,26 +6898,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7-3"
-           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5-5"
-           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1-5"
-           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6-5"
-           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5880-4-6-2"
-     transform="matrix(-0.55530925,0,0,-0.5110379,484.3233,709.93151)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,476.19979,749.92908)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-92-9-3-4">
@@ -6994,13 +6994,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-5">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
          id="polygon5877-4-1-7" />
     </g>
   </g>
   <g
      id="g5389-0-5-6-6"
-     transform="matrix(-0.59244642,0,0,-0.39695984,670.0179,616.20488)">
+     transform="matrix(-0.63182046,0,0,-0.41951897,674.23567,650.87599)">
     <g
        id="frame-5-7-6-0-9">
       <rect
@@ -7054,7 +7054,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5-6-4"
-     transform="matrix(-0.59244642,0,0,-1.0223308,756.9664,722.9624)">
+     transform="matrix(-0.63182046,0,0,-1.0804296,766.96278,763.70051)">
     <g
        id="frame-5-7-6-0-8">
       <rect
@@ -7108,9 +7108,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-6-8-5"
-     inkscape:transform-center-x="-32.162635"
-     inkscape:transform-center-y="36.961575"
-     transform="matrix(-0.55887443,0,0,-0.5093814,668.5072,576.50889)"
+     inkscape:transform-center-x="-34.300166"
+     inkscape:transform-center-y="39.062097"
+     transform="matrix(-0.59601727,0,0,-0.53832942,672.62457,608.92409)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-1-80-7-7">
@@ -7216,7 +7216,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-9-2-2-5"
-     transform="matrix(-0.42007213,0,0,-1.3514569,941.7891,1133.0943)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,964.06881,1197.1401)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6-5-09">
@@ -7249,26 +7249,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7-5"
-           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5-9"
-           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1-50"
-           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6-7"
-           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5880-4-6-9"
-     transform="matrix(-0.55530925,0,0,-0.5110379,668.2325,578.37455)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,672.33161,610.89577)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-92-9-3-1">
@@ -7345,13 +7345,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-7">
       <polygon
          style="fill:#ffffff"
-         points="46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 "
+         points="53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 "
          id="polygon5877-4-1-76" />
     </g>
   </g>
   <g
      id="g5389-0-5-6-4-6"
-     transform="matrix(-0.59244642,0,0,-0.39695984,1066.4712,614.47077)">
+     transform="matrix(-0.63182046,0,0,-0.41951897,1097.0373,649.04333)">
     <g
        id="frame-5-7-6-0-8-7">
       <rect
@@ -7405,7 +7405,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5-6-4-2"
-     transform="matrix(-0.59244642,0,0,-1.0100687,1141.241,719.60829)">
+     transform="matrix(-0.63182046,0,0,-1.0674707,1176.7763,760.15579)">
     <g
        id="frame-5-7-6-0-8-2">
       <rect
@@ -7459,7 +7459,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g6102-0-2"
-     transform="matrix(0,0.68724033,-0.60232092,0,1336.5552,582.89556)">
+     transform="matrix(0,0.72629603,-0.64235122,0,1385.0711,615.67371)">
     <g
        id="frame-62-7-7">
       <rect
@@ -7505,7 +7505,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5-6-4-2-6"
-     transform="matrix(-0.59244642,0,0,-0.39695984,1310.0925,614.38389)">
+     transform="matrix(-0.63182046,0,0,-0.41951897,1356.8497,648.95151)">
     <g
        id="frame-5-7-6-0-8-2-0">
       <rect
@@ -7559,9 +7559,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5-6-4-2-4"
-     transform="matrix(-0.59244642,0,0,-4.431216,1336.096,1094.741)"
-     inkscape:transform-center-x="15.953838"
-     inkscape:transform-center-y="193.57925">
+     transform="matrix(-0.63182046,0,0,-4.6830409,1384.5814,1156.6072)"
+     inkscape:transform-center-x="17.014086"
+     inkscape:transform-center-y="204.58031">
     <g
        id="frame-5-7-6-0-8-2-2">
       <rect
@@ -7615,9 +7615,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5-6-4-2-7"
-     transform="matrix(0,-0.62446149,0.19034235,0,1306.5711,945.82222)"
-     inkscape:transform-center-x="54.093422"
-     inkscape:transform-center-y="-127.23044">
+     transform="matrix(0,-0.65994948,0.20299252,0,1353.0942,999.2254)"
+     inkscape:transform-center-x="57.688502"
+     inkscape:transform-center-y="-134.46092">
     <g
        id="frame-5-7-6-0-8-2-1">
       <rect
@@ -7671,9 +7671,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-6-8-6"
-     inkscape:transform-center-x="-32.162633"
-     inkscape:transform-center-y="36.961582"
-     transform="matrix(-0.55887443,0,0,-0.5093814,754.9639,773.90055)"
+     inkscape:transform-center-x="-34.300165"
+     inkscape:transform-center-y="39.062105"
+     transform="matrix(-0.59601727,0,0,-0.53832942,764.82719,817.53347)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-1-80-7-41">
@@ -7779,7 +7779,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7"
-     transform="matrix(-0.55530925,0,0,-0.5110379,754.857,773.98337)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,764.71319,817.62099)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-92-9-3-5">
@@ -7856,13 +7856,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
          id="polygon5877-4-1-77" />
     </g>
   </g>
   <g
      id="g5644-3-9-2-2-9-5"
-     transform="matrix(0.42007213,0,0,1.3514569,425.7536,166.45967)">
+     transform="matrix(0.44799016,0,0,1.4282599,413.73755,175.57187)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6-5-0-1">
@@ -7895,26 +7895,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7-3-2"
-           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5-5-9"
-           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1-5-4"
-           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6-5-3"
-           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5880-4-6-7-9"
-     transform="matrix(-0.55530925,0,0,-0.5110379,1139.087,770.71208)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,1174.4791,814.1638)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-92-9-3-5-1">
@@ -7991,13 +7991,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-0">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-5" />
     </g>
   </g>
   <g
      id="g5644-3-9-2-2-9-5-9"
-     transform="matrix(0.42007213,0,0,1.3514569,809.9836,163.18837)">
+     transform="matrix(0.44799016,0,0,1.4282599,823.5035,172.11466)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6-5-0-1-8">
@@ -8030,28 +8030,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7-3-2-6"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5-5-9-4"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1-5-4-0"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6-5-3-7"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-6-8-0"
-     inkscape:transform-center-x="-32.162648"
-     inkscape:transform-center-y="36.96158"
-     transform="matrix(-0.55887443,0,0,-0.5093814,1139.194,770.62926)"
+     inkscape:transform-center-x="-34.300149"
+     inkscape:transform-center-y="39.062099"
+     transform="matrix(-0.59601727,0,0,-0.53832942,1174.5932,814.07627)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-1-80-7-8">
@@ -8157,7 +8157,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-9-2-2-5-2"
-     transform="matrix(-0.42007213,0,0,-1.3514569,1337.9852,1129.4946)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,1386.5961,1193.3358)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6-5-09-6">
@@ -8190,26 +8190,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7-5-5"
-           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5-9-4"
-           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1-50-9"
-           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6-7-4"
-           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5880-4-6-9-4"
-     transform="matrix(-0.55530925,0,0,-0.5110379,1064.4287,574.77478)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,1094.859,607.09143)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-92-9-3-1-8">
@@ -8286,15 +8286,15 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-7-6">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-76-6" />
     </g>
   </g>
   <g
      id="g5206-6-8-0-1"
-     inkscape:transform-center-x="-32.162662"
-     inkscape:transform-center-y="36.96158"
-     transform="matrix(-0.55887443,0,0,-0.5093814,1064.5357,574.69196)"
+     inkscape:transform-center-x="-34.30016"
+     inkscape:transform-center-y="39.062098"
+     transform="matrix(-0.59601727,0,0,-0.53832942,1094.9731,607.0039)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-1-80-7-8-3">
@@ -8400,7 +8400,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-9-2-2-5-1"
-     transform="matrix(-0.42007213,0,0,-1.3514569,1581.6621,1129.4077)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,1646.4678,1193.244)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6-5-09-5">
@@ -8433,26 +8433,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7-5-6"
-           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5-9-7"
-           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1-50-92"
-           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6-7-5"
-           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5880-4-6-9-5"
-     transform="matrix(-0.55530925,0,0,-0.5110379,1308.1057,574.6879)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,1354.7308,606.99961)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-92-9-3-1-7">
@@ -8529,15 +8529,15 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-7-3">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
          id="polygon5877-4-1-76-4" />
     </g>
   </g>
   <g
      id="g5206-6-8-0-1-2"
-     inkscape:transform-center-x="-32.162631"
-     inkscape:transform-center-y="36.961576"
-     transform="matrix(-0.55887443,0,0,-0.5093814,1308.2965,573.61811)"
+     inkscape:transform-center-x="-34.300165"
+     inkscape:transform-center-y="39.06209"
+     transform="matrix(-0.59601727,0,0,-0.53832942,1354.9343,605.86902)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-1-80-7-8-3-5">
@@ -8643,7 +8643,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-9-2-2-9-5-9-1"
-     transform="matrix(0.42007213,0,0,1.3514569,1005.442,538.23845)">
+     transform="matrix(0.44799016,0,0,1.4282599,1031.9521,568.47875)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6-5-0-1-8-5">
@@ -8676,28 +8676,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7-3-2-6-9"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5-5-9-4-1"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1-5-4-0-0"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6-5-3-7-0"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-6-8-0-2"
-     inkscape:transform-center-x="-32.162604"
-     inkscape:transform-center-y="36.961549"
-     transform="matrix(-0.55887443,0,0,-0.5093814,1334.6524,1145.6791)"
+     inkscape:transform-center-x="-34.300121"
+     inkscape:transform-center-y="39.062065"
+     transform="matrix(-0.59601727,0,0,-0.53832942,1383.0418,1210.4401)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-1-80-7-8-5">
@@ -8803,7 +8803,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-3-9-2-2-9-5-9-9"
-     transform="matrix(0,-0.4566051,1.2433268,0,813.5521,1242.4369)">
+     transform="matrix(0,-0.48255386,1.3259584,0,827.30917,1312.6966)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-9-1-6-5-0-1-8-50">
@@ -8836,28 +8836,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-1-9-3-7-3-2-6-97"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-2-4-0-5-5-9-4-2"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-3-63-0-1-5-4-0-5"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-9-1-8-6-5-3-7-2"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-6-8-0-24"
-     inkscape:transform-center-x="-34.004244"
-     inkscape:transform-center-y="-34.959762"
-     transform="matrix(0,0.6074788,-0.4686258,0,1372.4679,884.16582)"
+     inkscape:transform-center-x="-36.264135"
+     inkscape:transform-center-y="-36.94652"
+     transform="matrix(0,0.64200167,-0.49977071,0,1423.3705,934.06508)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-1-80-7-8-6">
@@ -8963,7 +8963,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4"
-     transform="matrix(-0.55530925,0,0,-0.5110379,1334.4617,1145.8007)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,1382.8384,1210.5686)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-92-9-3-5-9">
@@ -9040,13 +9040,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-77-1" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-7"
-     transform="matrix(0,0.60360356,-0.47014977,0,1372.5617,885.28432)"
+     transform="matrix(0,0.6379062,-0.50139596,0,1423.4706,935.24715)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state32&quot;}">
     <g
        id="frame-92-9-3-5-11">
@@ -9123,13 +9123,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-4">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-8" />
     </g>
   </g>
   <g
      id="g5389-0-1-5"
-     transform="matrix(0,0.66505391,-4.2891197,0,1444.588,112.03788)">
+     transform="matrix(0,0.70284876,-4.5741749,0,1500.2837,118.0573)">
     <g
        id="frame-5-7-95-4">
       <rect
@@ -9183,7 +9183,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-1-5-5"
-     transform="matrix(0,0.66505391,-3.3358684,0,1865.8125,112.35321)">
+     transform="matrix(0,0.70284876,-3.5575705,0,1949.5029,118.39055)">
     <g
        id="frame-5-7-95-4-8">
       <rect
@@ -9237,7 +9237,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0"
-     transform="matrix(-0.59244642,0,0,-0.46234175,1200.4667,194.49862)">
+     transform="matrix(-0.63182046,0,0,-0.48861652,1239.9381,205.20426)">
     <g
        id="frame-5-7-5-7">
       <rect
@@ -9291,9 +9291,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-3-7"
-     inkscape:transform-center-x="32.162614"
-     inkscape:transform-center-y="-36.961583"
-     transform="matrix(0.55887443,0,0,0.5093814,1142.954,194.58145)"
+     inkscape:transform-center-x="34.300165"
+     inkscape:transform-center-y="-39.062103"
+     transform="matrix(0.59601727,0,0,0.53832942,1178.6031,205.2918)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state7&quot;}">
     <g
        id="frame-1-1-2">
@@ -9399,7 +9399,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8-9"
-     transform="matrix(0.42007213,0,0,1.3514569,869.6363,-361.9213)">
+     transform="matrix(0.44799016,0,0,1.4282599,887.12073,-382.83686)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0">
@@ -9432,26 +9432,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5880-7-9"
-     transform="matrix(0.55530925,0,0,0.5110379,1143.2285,196.28146)"
+     transform="matrix(0.59221515,0,0,0.54008006,1178.8959,207.08842)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state7&quot;}">
     <g
        id="frame-92-3-0">
@@ -9528,13 +9528,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-3-3" />
     </g>
   </g>
   <g
      id="g3160-5-0"
-     transform="matrix(0.35818079,0,0,0.39474804,945.9274,353.84902)"
+     transform="matrix(0.38198551,0,0,0.41718147,968.48214,373.61051)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state6&quot;}">
     <g
        id="shape-7-8-4">
@@ -9627,7 +9627,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1"
-     transform="matrix(0.35017444,0,0,0.3928907,946.3504,353.94189)"
+     transform="matrix(0.37344706,0,0,0.41521858,968.93325,373.70866)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state6&quot;}">
     <g
        id="shape-73-4">
@@ -9720,7 +9720,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-5"
-     transform="matrix(0.35818079,0,0,0.39474804,1103.4987,410.20861)"
+     transform="matrix(0.38198551,0,0,0.41718147,1136.5256,433.173)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state7&quot;}">
     <g
        id="shape-7-8-4-1">
@@ -9813,7 +9813,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-2"
-     transform="matrix(0.35017444,0,0,0.3928907,1103.899,410.30673)"
+     transform="matrix(0.37344706,0,0,0.41521858,1136.9525,433.2767)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state7&quot;}">
     <g
        id="shape-73-4-1">
@@ -9906,7 +9906,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-0"
-     transform="matrix(0.35818079,0,0,0.39474804,1290.7646,356.25503)"
+     transform="matrix(0.38198551,0,0,0.41718147,1336.2372,376.15325)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state8&quot;}">
     <g
        id="shape-7-8-4-0">
@@ -9999,7 +9999,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-5"
-     transform="matrix(0.35017444,0,0,0.3928907,1291.1649,356.34265)"
+     transform="matrix(0.37344706,0,0,0.41521858,1336.6641,376.24585)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state8&quot;}">
     <g
        id="shape-73-4-6">
@@ -10092,7 +10092,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-3"
-     transform="matrix(0.35818079,0,0,0.39474804,1621.3004,314.56363)"
+     transform="matrix(0.38198551,0,0,0.41718147,1688.7405,332.09254)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state9&quot;}">
     <g
        id="shape-7-8-4-3">
@@ -10185,7 +10185,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-3"
-     transform="matrix(0.35017444,0,0,0.3928907,1621.941,314.7175)"
+     transform="matrix(0.37344706,0,0,0.41521858,1689.4236,332.25515)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state9&quot;}">
     <g
        id="shape-73-4-11">
@@ -10278,7 +10278,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-02"
-     transform="matrix(0.35818079,0,0,0.39474804,1717.3549,313.23124)"
+     transform="matrix(0.38198551,0,0,0.41718147,1791.1788,330.68443)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state10&quot;}">
     <g
        id="shape-7-8-4-34">
@@ -10371,7 +10371,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-6"
-     transform="matrix(0.35017444,0,0,0.3928907,1717.7779,313.32411)"
+     transform="matrix(0.37344706,0,0,0.41521858,1791.6299,330.78258)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state10&quot;}">
     <g
        id="shape-73-4-3">
@@ -10464,7 +10464,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34"
-     transform="matrix(0.35818079,0,0,0.39474804,1795.5287,316.69951)"
+     transform="matrix(0.38198551,0,0,0.41718147,1874.548,334.3498)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state11&quot;}">
     <g
        id="shape-7-8-4-5">
@@ -10557,7 +10557,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4"
-     transform="matrix(0.35017444,0,0,0.3928907,1795.929,316.78713)"
+     transform="matrix(0.37344706,0,0,0.41521858,1874.9749,334.4424)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state11&quot;}">
     <g
        id="shape-73-4-2">
@@ -10650,7 +10650,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-5"
-     transform="matrix(0.35818079,0,0,0.39474804,1686.1977,407.68208)"
+     transform="matrix(0.38198551,0,0,0.41718147,1757.9508,430.50289)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state13&quot;}">
     <g
        id="shape-7-8-4-5-8">
@@ -10743,7 +10743,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-9"
-     transform="matrix(0.35017444,0,0,0.3928907,1686.5755,407.77495)"
+     transform="matrix(0.37344706,0,0,0.41521858,1758.3538,430.60104)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state13&quot;}">
     <g
        id="shape-73-4-2-1">
@@ -10836,7 +10836,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-2"
-     transform="matrix(0.35818079,0,0,0.39474804,1681.8561,727.25565)"
+     transform="matrix(0.38198551,0,0,0.41718147,1753.3207,768.23775)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state14&quot;}">
     <g
        id="shape-7-8-4-5-9">
@@ -10929,7 +10929,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-0"
-     transform="matrix(0.35017444,0,0,0.3928907,1682.2564,727.35378)"
+     transform="matrix(0.37344706,0,0,0.41521858,1753.7476,768.34145)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state14&quot;}">
     <g
        id="shape-73-4-2-7">
@@ -11022,7 +11022,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-9"
-     transform="matrix(0.35818079,0,0,0.39474804,1652.672,829.94888)"
+     transform="matrix(0.38198551,0,0,0.41718147,1722.197,876.76701)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state15&quot;}">
     <g
        id="shape-7-8-4-5-80">
@@ -11115,7 +11115,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-5"
-     transform="matrix(0.35017444,0,0,0.3928907,1653.0723,830.0365)"
+     transform="matrix(0.37344706,0,0,0.41521858,1722.6239,876.85961)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state15&quot;}">
     <g
        id="shape-73-4-2-6">
@@ -11208,7 +11208,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-55"
-     transform="matrix(0.35818079,0,0,0.39474804,1798.4801,1203.6456)"
+     transform="matrix(0.38198551,0,0,0.41718147,1877.6955,1271.7008)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state17&quot;}">
     <g
        id="shape-7-8-4-5-93">
@@ -11301,7 +11301,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-8"
-     transform="matrix(0.35017444,0,0,0.3928907,1798.8804,1203.7437)"
+     transform="matrix(0.37344706,0,0,0.41521858,1878.1224,1271.8045)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state17&quot;}">
     <g
        id="shape-73-4-2-2">
@@ -11394,7 +11394,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-59"
-     transform="matrix(0.35818079,0,0,0.39474804,1670.686,1041.4642)"
+     transform="matrix(0.38198551,0,0,0.41718147,1741.4082,1100.3027)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state18&quot;}">
     <g
        id="shape-7-8-4-5-6">
@@ -11487,7 +11487,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-3"
-     transform="matrix(0.35017444,0,0,0.3928907,1673.0895,1041.5571)"
+     transform="matrix(0.37344706,0,0,0.41521858,1743.9715,1100.4009)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state18&quot;}">
     <g
        id="shape-73-4-2-0">
@@ -11580,7 +11580,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-97"
-     transform="matrix(0.35818079,0,0,0.39474804,1558.4251,977.54232)"
+     transform="matrix(0.38198551,0,0,0.41718147,1621.6865,1032.7481)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state19&quot;}">
     <g
        id="shape-7-8-4-5-7">
@@ -11673,7 +11673,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-7"
-     transform="matrix(0.35017444,0,0,0.3928907,1558.8028,977.63512)"
+     transform="matrix(0.37344706,0,0,0.41521858,1622.0893,1032.8462)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state19&quot;}">
     <g
        id="shape-73-4-2-9">
@@ -11766,7 +11766,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-4"
-     transform="matrix(0.35818079,0,0,0.39474804,1118.195,963.47202)"
+     transform="matrix(0.38198551,0,0,0.41718147,1152.1986,1017.8782)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state20&quot;}">
     <g
        id="shape-7-8-4-5-72">
@@ -11859,7 +11859,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-77"
-     transform="matrix(0.35017444,0,0,0.3928907,1118.618,963.56482)"
+     transform="matrix(0.37344706,0,0,0.41521858,1152.6497,1017.9763)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state20&quot;}">
     <g
        id="shape-73-4-2-09">
@@ -11952,7 +11952,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-63"
-     transform="matrix(0.35818079,0,0,0.39474804,979.7053,949.30132)"
+     transform="matrix(0.38198551,0,0,0.41718147,1004.5049,1002.9022)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state21&quot;}">
     <g
        id="shape-7-8-4-5-2">
@@ -12045,7 +12045,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-80"
-     transform="matrix(0.35017444,0,0,0.3928907,980.1056,949.39952)"
+     transform="matrix(0.37344706,0,0,0.41521858,1004.9318,1003.006)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state21&quot;}">
     <g
        id="shape-73-4-2-4">
@@ -12138,7 +12138,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-1"
-     transform="matrix(0.35818079,0,0,0.39474804,803.0371,930.66982)"
+     transform="matrix(0.38198551,0,0,0.41718147,816.09534,983.21189)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state22&quot;}">
     <g
        id="shape-7-8-4-5-60">
@@ -12231,7 +12231,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-1"
-     transform="matrix(0.35017444,0,0,0.3928907,803.46,930.76262)"
+     transform="matrix(0.37344706,0,0,0.41521858,816.54634,983.30997)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state22&quot;}">
     <g
        id="shape-73-4-2-73">
@@ -12324,7 +12324,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-11"
-     transform="matrix(0.35818079,0,0,0.39474804,631.4426,1009.3069)"
+     transform="matrix(0.38198551,0,0,0.41718147,633.09665,1066.3179)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state23&quot;}">
     <g
        id="shape-7-8-4-5-62">
@@ -12417,7 +12417,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-32"
-     transform="matrix(0.35017444,0,0,0.3928907,631.8429,1009.405)"
+     transform="matrix(0.37344706,0,0,0.41521858,633.52356,1066.4216)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state23&quot;}">
     <g
        id="shape-73-4-2-00">
@@ -12510,7 +12510,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-46"
-     transform="matrix(0.35818079,0,0,0.39474804,493.5093,938.52532)"
+     transform="matrix(0.38198551,0,0,0.41718147,485.9963,991.51382)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state24&quot;}">
     <g
        id="shape-7-8-4-5-5">
@@ -12603,7 +12603,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-95"
-     transform="matrix(0.35017444,0,0,0.3928907,494.0408,938.26272)"
+     transform="matrix(0.37344706,0,0,0.41521858,486.56312,991.2363)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state24&quot;}">
     <g
        id="shape-73-4-2-99">
@@ -12696,7 +12696,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-57"
-     transform="matrix(0.35818079,0,0,0.39474804,335.509,1099.3911)"
+     transform="matrix(0.38198551,0,0,0.41718147,317.49528,1161.5216)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state26&quot;}">
     <g
        id="shape-7-8-4-5-64">
@@ -12789,7 +12789,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-04"
-     transform="matrix(0.35017444,0,0,0.3928907,335.93196,1099.484)"
+     transform="matrix(0.37344706,0,0,0.41521858,317.94635,1161.6197)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state26&quot;}">
     <g
        id="shape-73-4-2-3">
@@ -12882,7 +12882,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-27"
-     transform="matrix(0.35818079,0,0,0.39474804,364.43192,929.66732)"
+     transform="matrix(0.38198551,0,0,0.41718147,348.34042,982.15242)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state28&quot;}">
     <g
        id="shape-7-8-4-5-45">
@@ -12975,7 +12975,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-01"
-     transform="matrix(0.35017444,0,0,0.3928907,363.57861,928.70445)"
+     transform="matrix(0.37344706,0,0,0.41521858,347.4304,981.13483)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state28&quot;}">
     <g
        id="shape-73-4-2-71">
@@ -13068,7 +13068,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3160-5-0-34-77"
-     transform="matrix(0.35818079,0,0,0.39474804,358.22205,821.29702)"
+     transform="matrix(0.38198551,0,0,0.41718147,341.71784,867.62347)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state29&quot;}">
     <g
        id="shape-7-8-4-5-934">
@@ -13161,7 +13161,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g3006-3-1-4-88"
-     transform="matrix(0.35017444,0,0,0.3928907,358.62237,821.39514)"
+     transform="matrix(0.37344706,0,0,0.41521858,342.14477,867.72716)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state29&quot;}">
     <g
        id="shape-73-4-2-91">
@@ -13254,7 +13254,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-7-7"
-     transform="matrix(0.55530925,0,0,0.5110379,956.5671,177.98953)"
+     transform="matrix(0.59221515,0,0,0.54008006,979.82895,187.75697)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state6&quot;}">
     <g
        id="frame-92-3-8">
@@ -13331,13 +13331,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-2">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-3-8" />
     </g>
   </g>
   <g
      id="g5644-8-4-7"
-     transform="matrix(0.42007213,0,0,1.3514569,681.5799,-376.64755)">
+     transform="matrix(0.44799016,0,0,1.4282599,686.56608,-398.4)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-8-8">
@@ -13370,28 +13370,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-1-5"
-           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-1-1"
-           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-9-5"
-           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-8-1"
-           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8"
-     inkscape:transform-center-x="32.162645"
-     inkscape:transform-center-y="-36.961591"
-     transform="matrix(0.55887443,0,0,0.5093814,956.46014,178.07236)"
+     inkscape:transform-center-x="34.300173"
+     inkscape:transform-center-y="-39.062114"
+     transform="matrix(0.59601727,0,0,0.53832942,979.71489,187.8445)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state6&quot;}">
     <g
        id="frame-1-1-1">
@@ -13497,7 +13497,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6"
-     transform="matrix(-0.59244642,0,0,-0.46234175,1379.1669,194.22127)">
+     transform="matrix(-0.63182046,0,0,-0.48861652,1430.5147,204.91115)">
     <g
        id="frame-5-7-5-7-0">
       <rect
@@ -13551,7 +13551,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8-9-7"
-     transform="matrix(0.42007213,0,0,1.3514569,1048.0567,-363.98148)">
+     transform="matrix(0.44799016,0,0,1.4282599,1077.3989,-385.01412)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1">
@@ -13584,26 +13584,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8"
-           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9"
-           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6"
-           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3"
-           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5880-7-9-3"
-     transform="matrix(0.55530925,0,0,0.5110379,1321.6491,194.22127)"
+     transform="matrix(0.59221515,0,0,0.54008006,1369.1743,204.91115)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state8&quot;}">
     <g
        id="frame-92-3-0-6">
@@ -13680,15 +13680,15 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-8">
       <polygon
          style="fill:#ffffff"
-         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
          id="polygon5877-3-3-6" />
     </g>
   </g>
   <g
      id="g5206-3-8-0"
-     inkscape:transform-center-x="32.162623"
-     inkscape:transform-center-y="-36.961582"
-     transform="matrix(0.55887443,0,0,0.5093814,1321.3942,194.3041)"
+     inkscape:transform-center-x="34.300125"
+     inkscape:transform-center-y="-39.0621"
+     transform="matrix(0.59601727,0,0,0.53832942,1368.9025,204.99869)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state8&quot;}">
     <g
        id="frame-1-1-1-9">
@@ -13794,7 +13794,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-0"
-     transform="matrix(-0.59244642,0,0,-0.46234175,1650.9878,195.12809)">
+     transform="matrix(-0.63182046,0,0,-0.48861652,1720.4009,205.86951)">
     <g
        id="frame-5-7-5-7-0-9">
       <rect
@@ -13848,7 +13848,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8-9-7-9"
-     transform="matrix(0.42007213,0,0,1.3514569,1319.8777,-363.07468)">
+     transform="matrix(0.44799016,0,0,1.4282599,1367.2852,-384.05579)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-0">
@@ -13881,28 +13881,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-7"
-           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-8"
-           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-8"
-           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-0"
-           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8-0-8"
-     inkscape:transform-center-x="32.162651"
-     inkscape:transform-center-y="-36.961591"
-     transform="matrix(0.55887443,0,0,0.5093814,1593.2151,195.21091)"
+     inkscape:transform-center-x="34.300194"
+     inkscape:transform-center-y="-39.062113"
+     transform="matrix(0.59601727,0,0,0.53832942,1658.7886,205.95703)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state9&quot;}">
     <g
        id="frame-1-1-1-9-2">
@@ -14008,7 +14008,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-6"
-     transform="matrix(-0.59244642,0,0,-0.48835375,1766.4465,196.54717)">
+     transform="matrix(-0.63182046,0,0,-0.51610677,1843.533,207.36923)">
     <g
        id="frame-5-7-5-7-0-0">
       <rect
@@ -14062,7 +14062,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8-9-7-5"
-     transform="matrix(0.42007213,0,0,1.3514569,1435.3364,-361.65559)">
+     transform="matrix(0.44799016,0,0,1.4282599,1490.4173,-382.55605)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-9">
@@ -14095,28 +14095,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-1"
-           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-5"
-           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-9"
-           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-3"
-           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8-0-89"
-     inkscape:transform-center-x="32.162643"
-     inkscape:transform-center-y="-36.961586"
-     transform="matrix(0.55887443,0,0,0.5093814,1708.6738,196.62999)"
+     inkscape:transform-center-x="34.30018"
+     inkscape:transform-center-y="-39.062104"
+     transform="matrix(0.59601727,0,0,0.53832942,1781.9207,207.45676)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state10&quot;}">
     <g
        id="frame-1-1-1-9-3">
@@ -14222,7 +14222,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8-9-7-4"
-     transform="matrix(0.42007213,0,0,1.3514569,1593.1562,-376.79512)">
+     transform="matrix(0.44799016,0,0,1.4282599,1658.7258,-398.55596)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-1">
@@ -14255,28 +14255,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-2"
-           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
+           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-4"
-           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
+           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-1"
-           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
+           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-1"
-           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
+           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8-0-0"
-     inkscape:transform-center-x="32.16267"
-     inkscape:transform-center-y="-36.961582"
-     transform="matrix(0.55887443,0,0,0.5093814,1866.5789,179.79045)"
+     inkscape:transform-center-x="34.300194"
+     inkscape:transform-center-y="-39.062103"
+     transform="matrix(0.59601727,0,0,0.53832942,1950.3202,189.66023)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state11&quot;}">
     <g
        id="frame-1-1-1-9-20">
@@ -14382,7 +14382,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-7-9-6"
-     transform="matrix(0.55530925,0,0,0.5110379,1593.3221,195.12809)"
+     transform="matrix(0.59221515,0,0,0.54008006,1658.9027,205.86951)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state9&quot;}">
     <g
        id="frame-92-3-0-2">
@@ -14459,13 +14459,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-0">
       <polygon
          style="fill:#ffffff"
-         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
          id="polygon5877-3-3-4" />
     </g>
   </g>
   <g
      id="g5880-7-9-0"
-     transform="matrix(0.55530925,0,0,0.5110379,1708.7808,196.54717)"
+     transform="matrix(0.59221515,0,0,0.54008006,1782.0348,207.36923)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state10&quot;}">
     <g
        id="frame-92-3-0-24">
@@ -14542,13 +14542,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-9">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-3-3-65" />
     </g>
   </g>
   <g
      id="g5880-7-9-7"
-     transform="matrix(0.55530925,0,0,0.5110379,1866.6859,179.70762)"
+     transform="matrix(0.59221515,0,0,0.54008006,1950.4343,189.5727)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state11&quot;}">
     <g
        id="frame-92-3-0-69">
@@ -14625,15 +14625,15 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-05">
       <polygon
          style="fill:#ffffff"
-         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
+         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
          id="polygon5877-3-3-62" />
     </g>
   </g>
   <g
      id="g5389-0-5-6-4-2-4-1"
-     transform="matrix(-0.59244642,0,0,-0.53028514,1991.0839,744.56107)"
-     inkscape:transform-center-x="15.953891"
-     inkscape:transform-center-y="23.165699">
+     transform="matrix(-0.63182046,0,0,-0.56042112,2083.0998,786.52663)"
+     inkscape:transform-center-x="17.014191"
+     inkscape:transform-center-y="24.4822">
     <g
        id="frame-5-7-6-0-8-2-2-2">
       <rect
@@ -14687,9 +14687,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5-6-4-2-4-0"
-     transform="matrix(-0.59244642,0,0,-3.8966536,1990.96,1229.4858)"
-     inkscape:transform-center-x="15.953839"
-     inkscape:transform-center-y="170.22676">
+     transform="matrix(-0.63182046,0,0,-4.1180995,2082.9677,1299.0095)"
+     inkscape:transform-center-x="17.014101"
+     inkscape:transform-center-y="179.90069">
     <g
        id="frame-5-7-6-0-8-2-2-6">
       <rect
@@ -14743,7 +14743,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g6102-0-25-7"
-     transform="matrix(-0.63225425,0,0,-0.62731282,1992.8111,1292.217)">
+     transform="matrix(-0.67427392,0,0,-0.66296285,2084.9418,1365.3057)">
     <g
        id="frame-62-7-0-0">
       <rect
@@ -14789,7 +14789,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g6102-0-25-4"
-     transform="matrix(0,-0.68724033,0.57712153,0,1497.5918,1295.4231)">
+     transform="matrix(0,-0.72629603,0.61547707,0,1556.8102,1368.694)">
     <g
        id="frame-62-7-0-2">
       <rect
@@ -14835,9 +14835,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5-6-4-2-4-0-7"
-     transform="matrix(0,-0.64397049,3.7428176,0,1555.3039,1293.1082)"
-     inkscape:transform-center-x="163.5063"
-     inkscape:transform-center-y="-17.341243">
+     transform="matrix(0,-0.68056718,3.9915656,0,1618.3578,1366.2476)"
+     inkscape:transform-center-x="174.37297"
+     inkscape:transform-center-y="-18.326701">
     <g
        id="frame-5-7-6-0-8-2-2-6-3">
       <rect
@@ -14891,7 +14891,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8-9-7-3-0"
-     transform="matrix(0,0.4566051,-1.2433268,0,2332.6304,331.91259)">
+     transform="matrix(0,0.48255386,-1.3259584,0,2447.3455,350.42744)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4">
@@ -14924,28 +14924,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0"
-           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7"
-           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6"
-           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4"
-           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8-0-4-9"
-     inkscape:transform-center-x="-34.004269"
-     inkscape:transform-center-y="-34.959768"
-     transform="matrix(0,0.6074788,-0.4686258,0,1820.5772,629.43599)"
+     inkscape:transform-center-x="-36.264182"
+     inkscape:transform-center-y="-36.946523"
+     transform="matrix(0,0.64200167,-0.49977071,0,1901.2612,664.85902)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state14&quot;}">
     <g
        id="frame-1-1-1-9-23-7">
@@ -15051,7 +15051,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-7-9-7-6"
-     transform="matrix(0,0.60360356,-0.47014977,0,1835.6702,459.3417)"
+     transform="matrix(0,0.6379062,-0.50139596,0,1917.3573,485.09831)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state13&quot;}">
     <g
        id="frame-92-3-0-69-9">
@@ -15128,13 +15128,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-05-6">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-3-3-62-2" />
     </g>
   </g>
   <g
      id="g5389-0-19-0-6-1"
-     transform="matrix(0,-0.64397049,1.098515,0,1820.5772,691.88074)">
+     transform="matrix(0,-0.68056718,1.1715224,0,1901.2612,730.85249)">
     <g
        id="frame-5-7-5-7-0-47">
       <rect
@@ -15188,7 +15188,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8-9-7-3-0-9"
-     transform="matrix(0,0.4566051,-1.2433268,0,2346.7392,161.61097)">
+     transform="matrix(0,0.48255386,-1.3259584,0,2462.392,170.44762)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-1">
@@ -15221,28 +15221,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-3"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-2"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-7"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-7"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8-0-4-9-6"
-     inkscape:transform-center-x="-34.004257"
-     inkscape:transform-center-y="-34.959762"
-     transform="matrix(0,0.6074788,-0.4686258,0,1834.686,459.13438)"
+     inkscape:transform-center-x="-36.264197"
+     inkscape:transform-center-y="-36.946517"
+     transform="matrix(0,0.64200167,-0.49977071,0,1916.3077,484.87921)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state13&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6">
@@ -15348,10 +15348,10 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-7-9-7-6-9"
-     transform="matrix(0,0.60360356,-0.47014977,0,1820.6534,629.55225)"
+     transform="matrix(0,0.6379062,-0.50139596,0,1901.3425,664.98189)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state14&quot;}"
-     inkscape:transform-center-x="-29.330769"
-     inkscape:transform-center-y="-40.465178">
+     inkscape:transform-center-x="-31.280116"
+     inkscape:transform-center-y="-42.764801">
     <g
        id="frame-92-3-0-69-9-6">
       <rect
@@ -15427,13 +15427,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-05-6-9">
       <polygon
          style="fill:#ffffff"
-         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-3-3-62-2-2" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-0"
-     transform="matrix(0,0.4566051,-1.2433268,0,2334.1815,548.55886)">
+     transform="matrix(0,0.48255386,-1.3259584,0,2448.9997,579.38566)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0">
@@ -15466,26 +15466,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-19-0-6-1-7"
-     transform="matrix(0,-0.64397049,1.378601,0,1822.1284,908.52702)">
+     transform="matrix(0,-0.68056718,1.4702229,0,1902.9155,959.81072)">
     <g
        id="frame-5-7-5-7-0-47-7">
       <rect
@@ -15539,10 +15539,10 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-7-9-7-6-9-0"
-     transform="matrix(0,0.60360356,-0.47014977,0,1822.2046,846.19852)"
+     transform="matrix(0,0.6379062,-0.50139596,0,1902.9968,893.94011)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state15&quot;}"
-     inkscape:transform-center-x="-29.330787"
-     inkscape:transform-center-y="-40.465181">
+     inkscape:transform-center-x="-31.280143"
+     inkscape:transform-center-y="-42.764809">
     <g
        id="frame-92-3-0-69-9-6-2">
       <rect
@@ -15618,13 +15618,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-05-6-9-4">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-3-3-62-2-2-1" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-2"
-     transform="matrix(0,0.4566051,-1.2433268,0,2412.6475,759.88038)">
+     transform="matrix(0,0.48255386,-1.3259584,0,2532.6806,802.71653)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-2">
@@ -15657,26 +15657,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-2"
-           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-20"
-           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-79"
-           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-4"
-           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-19-0-6-1-6"
-     transform="matrix(0,-0.64397049,0.58156402,0,1900.5944,1119.8484)">
+     transform="matrix(0,-0.68056718,0.62021481,0,1986.5964,1183.1414)">
     <g
        id="frame-5-7-5-7-0-47-8">
       <rect
@@ -15730,10 +15730,10 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-7-9-7-6-9-01"
-     transform="matrix(0,0.60360356,-0.47014977,0,1900.6706,1057.5199)"
+     transform="matrix(0,0.6379062,-0.50139596,0,1986.6776,1117.2708)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state17&quot;}"
-     inkscape:transform-center-x="-29.330785"
-     inkscape:transform-center-y="-40.465209">
+     inkscape:transform-center-x="-31.280084"
+     inkscape:transform-center-y="-42.764871">
     <g
        id="frame-92-3-0-69-9-6-5">
       <rect
@@ -15809,15 +15809,15 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-05-6-9-2">
       <polygon
          style="fill:#ffffff"
-         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-3-3-62-2-2-3" />
     </g>
   </g>
   <g
      id="g5206-3-8-0-4-9-6-9"
-     inkscape:transform-center-x="-34.004288"
-     inkscape:transform-center-y="-34.959771"
-     transform="matrix(0,0.6074788,-0.4686258,0,1822.1284,846.08226)"
+     inkscape:transform-center-x="-36.264209"
+     inkscape:transform-center-y="-36.946531"
+     transform="matrix(0,0.64200167,-0.49977071,0,1902.9155,893.81724)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state15&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-5">
@@ -15923,9 +15923,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0"
-     inkscape:transform-center-x="-34.004286"
-     inkscape:transform-center-y="-34.959807"
-     transform="matrix(0,0.6074788,-0.4686258,0,1900.5944,1057.2428)"
+     inkscape:transform-center-x="-36.26425"
+     inkscape:transform-center-y="-36.946551"
+     transform="matrix(0,0.64200167,-0.49977071,0,1986.5964,1116.978)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state17&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2">
@@ -16031,7 +16031,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7"
-     transform="matrix(-0.42007213,0,0,-1.3514569,1991.6421,1749.2279)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,2083.6951,1848.2884)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1">
@@ -16064,26 +16064,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9"
-     transform="matrix(0.59244642,0,0,0.65240543,1660.199,1192.8079)">
+     transform="matrix(0.63182046,0,0,0.68948147,1730.2243,1260.2472)">
     <g
        id="frame-5-7-5-7-0-47-7-9">
       <rect
@@ -16137,10 +16137,10 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-7-9-7-6-9-0-8"
-     transform="matrix(-0.55530925,0,0,-0.5110379,1717.7168,1192.8079)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,1791.5647,1260.2472)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state18&quot;}"
-     inkscape:transform-center-x="-37.227623"
-     inkscape:transform-center-y="31.881691">
+     inkscape:transform-center-x="-39.70177"
+     inkscape:transform-center-y="33.693502">
     <g
        id="frame-92-3-0-69-9-6-2-5">
       <rect
@@ -16216,13 +16216,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-05-6-9-4-7">
       <polygon
          style="fill:#ffffff"
-         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-3-3-62-2-2-1-9" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7-6"
-     transform="matrix(-0.42007213,0,0,-1.3514569,1828.146,1660.2463)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,1909.333,1754.25)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1-8">
@@ -16255,26 +16255,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1-2"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0-0"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4-5"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4-8"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9-0"
-     transform="matrix(0.59244642,0,0,1.2287277,1496.7029,1103.8263)">
+     transform="matrix(0.63182046,0,0,1.298556,1555.8622,1166.2088)">
     <g
        id="frame-5-7-5-7-0-47-7-9-3">
       <rect
@@ -16328,10 +16328,10 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-7-9-7-6-9-0-8-7"
-     transform="matrix(-0.55530925,0,0,-0.5110379,1554.2207,1103.8263)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,1617.2026,1166.2088)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state19&quot;}"
-     inkscape:transform-center-x="-37.227611"
-     inkscape:transform-center-y="31.881682">
+     inkscape:transform-center-x="-39.701722"
+     inkscape:transform-center-y="33.693495">
     <g
        id="frame-92-3-0-69-9-6-2-5-7">
       <rect
@@ -16407,15 +16407,15 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-74-6-05-6-9-4-7-8">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 "
          id="polygon5877-3-3-62-2-2-1-9-5" />
     </g>
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-6"
-     inkscape:transform-center-x="-32.16263"
-     inkscape:transform-center-y="36.961563"
-     transform="matrix(-0.55887443,0,0,-0.5093814,1717.9717,1192.725)"
+     inkscape:transform-center-x="-34.300117"
+     inkscape:transform-center-y="39.062073"
+     transform="matrix(-0.59601727,0,0,-0.53832942,1791.8365,1260.1596)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state18&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8">
@@ -16521,9 +16521,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-3"
-     inkscape:transform-center-x="-32.162618"
-     inkscape:transform-center-y="36.961555"
-     transform="matrix(-0.55887443,0,0,-0.5093814,1554.4756,1103.7434)"
+     inkscape:transform-center-x="-34.300168"
+     inkscape:transform-center-y="39.062067"
+     transform="matrix(-0.59601727,0,0,-0.53832942,1617.4745,1166.1212)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state19&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-3">
@@ -16629,7 +16629,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-1-5-3"
-     transform="matrix(0,0.66505391,-4.0786081,0,915.96028,1187.9773)">
+     transform="matrix(0,0.70284876,-4.3496727,0,936.5234,1255.1421)">
     <g
        id="frame-5-7-95-4-4">
       <rect
@@ -16683,7 +16683,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g6102-8-8"
-     transform="matrix(0,-0.69030587,0.60232092,0,447.8674,1255.9221)">
+     transform="matrix(0,-0.72953578,0.64235122,0,437.32103,1326.9482)">
     <g
        id="frame-62-5-5">
       <rect
@@ -16729,7 +16729,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g6102-8-6"
-     transform="matrix(0,-0.69030587,0.60232092,0,190.8521,1211.5792)">
+     transform="matrix(0,-0.72953578,0.64235122,0,163.22447,1280.0853)">
     <g
        id="frame-62-5-3">
       <rect
@@ -16775,7 +16775,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-1-5-3-7"
-     transform="matrix(-0.61184296,0,0,-0.43168618,508.5422,1186.8915)">
+     transform="matrix(-0.65250609,0,0,-0.4562188,502.02828,1253.9946)">
     <g
        id="frame-5-7-95-4-4-9">
       <rect
@@ -16829,7 +16829,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-1-5-3-8"
-     transform="matrix(0,0.66505391,-2.247244,0,475.8086,1143.7229)">
+     transform="matrix(0,0.70284876,-2.396596,0,467.11921,1208.3727)">
     <g
        id="frame-5-7-95-4-4-5">
       <rect
@@ -16883,7 +16883,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-1-5-3-2"
-     transform="matrix(0,0.66505391,-2.1920983,0,1133.8684,1187.7442)">
+     transform="matrix(0,0.70284876,-2.3377853,0,1168.9137,1254.8957)">
     <g
        id="frame-5-7-95-4-4-96">
       <rect
@@ -16937,7 +16937,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7-9"
-     transform="matrix(-0.42007213,0,0,-1.3514569,1467.5921,1679.405)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,1524.8167,1774.4975)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1-0">
@@ -16970,28 +16970,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1-9"
-           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
+           points="17.625,25 21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0-3"
-           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
+           points="78.21,25 82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4-7"
-           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
+           points="33.384,25 37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4-0"
-           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
+           points="62.451,25 66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-6-8"
-     inkscape:transform-center-x="-32.162696"
-     inkscape:transform-center-y="36.961523"
-     transform="matrix(-0.55887443,0,0,-0.5093814,1193.9218,1122.902)"
+     inkscape:transform-center-x="-34.300186"
+     inkscape:transform-center-y="39.062055"
+     transform="matrix(-0.59601727,0,0,-0.53832942,1232.9582,1186.3686)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state20&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8-7">
@@ -17097,7 +17097,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4-8"
-     transform="matrix(-0.55530925,0,0,-0.5110379,1193.8148,1122.9849)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,1232.8441,1186.4562)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state20&quot;}">
     <g
        id="frame-92-9-3-5-9-2">
@@ -17174,13 +17174,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-77-1-7" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7-9-1"
-     transform="matrix(-0.42007213,0,0,-1.3514569,1296.5388,1674.1687)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,1342.3952,1768.9636)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1-0-8">
@@ -17213,26 +17213,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1-9-5"
-           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
+           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0-3-4"
-           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
+           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4-7-6"
-           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
+           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4-0-1"
-           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
+           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9-2-8"
-     transform="matrix(0.59244642,0,0,0.99489682,965.0957,1117.7485)">
+     transform="matrix(0.63182046,0,0,1.0514366,988.92437,1180.9222)">
     <g
        id="frame-5-7-5-7-0-47-7-9-2-6">
       <rect
@@ -17286,9 +17286,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-6-8-7"
-     inkscape:transform-center-x="-32.162649"
-     inkscape:transform-center-y="36.961495"
-     transform="matrix(-0.55887443,0,0,-0.5093814,1022.8684,1117.6656)"
+     inkscape:transform-center-x="-34.300137"
+     inkscape:transform-center-y="39.062009"
+     transform="matrix(-0.59601727,0,0,-0.53832942,1050.5366,1180.8346)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state21&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8-7-7">
@@ -17394,7 +17394,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4-8-6"
-     transform="matrix(-0.55530925,0,0,-0.5110379,1022.7614,1117.7485)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,1050.4225,1180.9222)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state21&quot;}">
     <g
        id="frame-92-9-3-5-9-2-7">
@@ -17471,13 +17471,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-6">
       <polygon
          style="fill:#ffffff"
-         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
+         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
          id="polygon5877-4-1-77-1-7-7" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7-9-3"
-     transform="matrix(-0.42007213,0,0,-1.3514569,1080.9347,1619.0592)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,1112.462,1710.7223)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1-0-3">
@@ -17510,26 +17510,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1-9-0"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0-3-3"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4-7-3"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4-0-9"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9-2-9"
-     transform="matrix(0.59244642,0,0,1.5475443,749.4916,1062.6392)">
+     transform="matrix(0.63182046,0,0,1.6354909,758.9912,1122.6811)">
     <g
        id="frame-5-7-5-7-0-47-7-9-2-5">
       <rect
@@ -17583,9 +17583,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-6-8-0"
-     inkscape:transform-center-x="-32.162642"
-     inkscape:transform-center-y="36.961555"
-     transform="matrix(-0.55887443,0,0,-0.5093814,807.2643,1062.5563)"
+     inkscape:transform-center-x="-34.300175"
+     inkscape:transform-center-y="39.06212"
+     transform="matrix(-0.59601727,0,0,-0.53832942,820.60348,1122.5935)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state22&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8-7-1">
@@ -17691,7 +17691,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4-8-5"
-     transform="matrix(-0.55530925,0,0,-0.5110379,807.0094,1062.6392)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,820.33164,1122.6811)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state22&quot;}">
     <g
        id="frame-92-9-3-5-9-2-5">
@@ -17768,13 +17768,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-4">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-77-1-7-9" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7-9-18"
-     transform="matrix(-0.42007213,0,0,-1.3514569,949.7752,1690.7805)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,972.58566,1786.5195)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1-0-33">
@@ -17807,26 +17807,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1-9-1"
-           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0-3-0"
-           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4-7-9"
-           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4-0-19"
-           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9-2-2"
-     transform="matrix(0.59244642,0,0,0.83327254,618.3322,1134.3604)">
+     transform="matrix(0.63182046,0,0,0.88062722,619.11494,1198.4782)">
     <g
        id="frame-5-7-5-7-0-47-7-9-2-8">
       <rect
@@ -17880,9 +17880,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-6-8-1"
-     inkscape:transform-center-x="-32.162646"
-     inkscape:transform-center-y="36.961495"
-     transform="matrix(-0.55887443,0,0,-0.5093814,676.1049,1134.2775)"
+     inkscape:transform-center-x="-34.300174"
+     inkscape:transform-center-y="39.061958"
+     transform="matrix(-0.59601727,0,0,-0.53832942,680.72721,1198.3905)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state23&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8-7-0">
@@ -17988,7 +17988,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4-8-8"
-     transform="matrix(-0.55530925,0,0,-0.5110379,675.9141,1134.3991)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,680.52373,1198.5191)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state23&quot;}">
     <g
        id="frame-92-9-3-5-9-2-6">
@@ -18065,13 +18065,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-9">
       <polygon
          style="fill:#ffffff"
-         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
+         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
          id="polygon5877-4-1-77-1-7-97" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7-9-9"
-     transform="matrix(-0.42007213,0,0,-1.3514569,779.6739,1634.9024)">
+     transform="matrix(-0.44799016,0,0,-1.4282599,791.17942,1727.4658)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1-0-2">
@@ -18104,26 +18104,26 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1-9-9"
-           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0-3-7"
-           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4-7-4"
-           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4-0-2"
-           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9-2-4"
-     transform="matrix(0.59244642,0,0,0.65240543,448.2308,1078.4823)">
+     transform="matrix(0.63182046,0,0,0.68948147,437.70858,1139.4245)">
     <g
        id="frame-5-7-5-7-0-47-7-9-2-2">
       <rect
@@ -18177,9 +18177,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-6-8-6"
-     inkscape:transform-center-x="-32.162652"
-     inkscape:transform-center-y="36.961501"
-     transform="matrix(-0.55887443,0,0,-0.5093814,506.0035,1078.3994)"
+     inkscape:transform-center-x="-34.300183"
+     inkscape:transform-center-y="39.062004"
+     transform="matrix(-0.59601727,0,0,-0.53832942,499.32086,1139.3369)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state24&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8-7-8">
@@ -18285,7 +18285,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4-8-59"
-     transform="matrix(-0.55530925,0,0,-0.5110379,505.7486,1078.4823)"
+     transform="matrix(-0.59221515,0,0,-0.54008006,499.04902,1139.4245)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state24&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78">
@@ -18362,13 +18362,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-77-1-7-6" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7-9-0"
-     transform="matrix(0,-0.4566051,1.2433268,0,-252.763,1407.8013)">
+     transform="matrix(0,-0.48255386,1.3259584,0,-309.87332,1487.4586)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1-0-7">
@@ -18401,28 +18401,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1-9-3"
-           points="34.25,9.056 32.25,16.556 17.625,25 21.79,25 34.25,17.806 "
+           points="32.25,16.556 17.625,25 21.79,25 34.25,17.806 34.25,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0-3-1"
-           points="65.75,9.056 65.75,17.806 78.21,25 82.375,25 67.75,16.556 "
+           points="65.75,17.806 78.21,25 82.375,25 67.75,16.556 65.75,9.056 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4-7-98"
-           points="45.678,11.556 43.678,19.056 33.384,25 37.549,25 45.678,20.306 "
+           points="43.678,19.056 33.384,25 37.549,25 45.678,20.306 45.678,11.556 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4-0-7"
-           points="54.322,11.556 54.322,20.306 62.451,25 66.616,25 56.322,19.056 "
+           points="54.322,20.306 62.451,25 66.616,25 56.322,19.056 54.322,11.556 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-6-8-9"
-     inkscape:transform-center-x="34.004251"
-     inkscape:transform-center-y="34.959739"
-     transform="matrix(0,-0.6074788,0.4686258,0,259.2901,1110.7523)"
+     inkscape:transform-center-x="36.264175"
+     inkscape:transform-center-y="36.946475"
+     transform="matrix(0,-0.64200167,0.49977071,0,236.21087,1173.5284)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state26&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8-7-6">
@@ -18528,7 +18528,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4-8-67"
-     transform="matrix(0,-0.60360356,0.47014977,0,259.2139,1110.4752)"
+     transform="matrix(0,-0.6379062,0.50139596,0,236.1296,1173.2356)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state26&quot;}">
     <g
        id="frame-92-9-3-5-9-2-8">
@@ -18605,13 +18605,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-3">
       <polygon
          style="fill:#ffffff"
-         points="46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 "
+         points="53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 "
          id="polygon5877-4-1-77-1-7-2" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7-9-0-3"
-     transform="matrix(0,-0.4566051,1.2433268,0,-247.7133,1293.4175)">
+     transform="matrix(0,-0.48255386,1.3259584,0,-304.48802,1366.5744)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1-0-7-5">
@@ -18644,28 +18644,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1-9-3-2"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0-3-1-3"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4-7-98-3"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4-0-7-4"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-6-8-9-8"
-     inkscape:transform-center-x="34.004248"
-     inkscape:transform-center-y="34.959814"
-     transform="matrix(0,-0.6074788,0.4686258,0,264.3398,996.36882)"
+     inkscape:transform-center-x="36.264176"
+     inkscape:transform-center-y="36.946619"
+     transform="matrix(0,-0.64200167,0.49977071,0,241.59617,1052.6446)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state28&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8-7-6-4">
@@ -18771,7 +18771,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4-8-67-1"
-     transform="matrix(0,-0.60360356,0.47014977,0,264.3312,996.13812)"
+     transform="matrix(0,-0.6379062,0.50139596,0,241.587,1052.4007)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state28&quot;}">
     <g
        id="frame-92-9-3-5-9-2-8-7">
@@ -18848,13 +18848,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-3-6">
       <polygon
          style="fill:#ffffff"
-         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
+         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
          id="polygon5877-4-1-77-1-7-2-7" />
     </g>
   </g>
   <g
      id="g5644-8-9-7-3-0-0-7-9-0-6"
-     transform="matrix(0,-0.4566051,1.2433268,0,-234.4619,1166.7857)">
+     transform="matrix(0,-0.48255386,1.3259584,0,-290.35593,1232.7462)">
     <g
        transform="matrix(0.47806484,0,0,0.50018074,693.86485,449.53243)"
        id="g5596-98-0-1-03-4-0-1-0-7-8">
@@ -18887,28 +18887,28 @@ JeMAAAAASUVORK5CYII=
            style="fill:#7dabd8" />
         <polygon
            id="polygon5587-9-0-8-15-0-1-1-9-3-9"
-           points="21.79,25 34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 "
+           points="34.25,17.806 34.25,9.056 32.25,16.556 17.625,25 21.79,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5589-1-6-9-0-7-8-0-3-1-36"
-           points="82.375,25 67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 "
+           points="67.75,16.556 65.75,9.056 65.75,17.806 78.21,25 82.375,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5591-9-3-6-99-6-3-4-7-98-0"
-           points="37.549,25 45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 "
+           points="45.678,20.306 45.678,11.556 43.678,19.056 33.384,25 37.549,25 "
            style="fill:#7dabd8" />
         <polygon
            id="polygon5593-5-9-3-18-4-1-4-0-7-2"
-           points="66.616,25 56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 "
+           points="56.322,19.056 54.322,11.556 54.322,20.306 62.451,25 66.616,25 "
            style="fill:#7dabd8" />
       </g>
     </g>
   </g>
   <g
      id="g5206-3-8-0-4-9-6-0-6-8-9-6"
-     inkscape:transform-center-x="34.004246"
-     inkscape:transform-center-y="34.959774"
-     transform="matrix(0,-0.6074788,0.4686258,0,277.5912,869.73692)"
+     inkscape:transform-center-x="36.264172"
+     inkscape:transform-center-y="36.946527"
+     transform="matrix(0,-0.64200167,0.49977071,0,255.72826,918.81619)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state29&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8-7-6-0">
@@ -19014,7 +19014,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4-8-67-2"
-     transform="matrix(0,-0.60360356,0.47014977,0,277.5825,869.50632)"
+     transform="matrix(0,-0.6379062,0.50139596,0,255.71898,918.57249)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state29&quot;}">
     <g
        id="frame-92-9-3-5-9-2-8-1">
@@ -19091,13 +19091,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-3-3">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-77-1-7-2-2" />
     </g>
   </g>
   <g
      id="g4653-5"
-     transform="matrix(0,2.3670963,-1.3880338,0,159.68346,506.56178)">
+     transform="matrix(0,2.5016178,-1.4802826,0,129.98436,535.0019)">
     <g
        id="frame-61">
       <rect
@@ -19143,7 +19143,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-2"
-     transform="matrix(0,0.64397049,-11.527576,0,1275.7306,584.43926)">
+     transform="matrix(0,0.68056718,-12.2937,0,1320.2041,617.30514)">
     <g
        id="frame-5-7-94">
       <rect
@@ -19197,9 +19197,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5-6-4-2-4-2"
-     transform="matrix(-0.59244642,0,0,-0.96764433,1990.96,839.82044)"
-     inkscape:transform-center-x="15.953838"
-     inkscape:transform-center-y="42.271887">
+     transform="matrix(-0.63182046,0,0,-1.0226353,2082.9677,887.19957)"
+     inkscape:transform-center-x="17.0141"
+     inkscape:transform-center-y="44.674193">
     <g
        id="frame-5-7-6-0-8-2-2-1">
       <rect
@@ -19253,9 +19253,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-5-6-4-2-4-2-0"
-     transform="matrix(-0.59244642,0,0,-2.814617,1991.0839,458.48467)"
-     inkscape:transform-center-x="15.953838"
-     inkscape:transform-center-y="122.95754">
+     transform="matrix(-0.63182046,0,0,-2.974571,2083.0998,484.19258)"
+     inkscape:transform-center-x="17.014134"
+     inkscape:transform-center-y="129.94519">
     <g
        id="frame-5-7-6-0-8-2-2-1-3">
       <rect
@@ -19309,7 +19309,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-1-0"
-     transform="matrix(0,-0.64397049,0.94044938,0,1835.6702,521.51857)">
+     transform="matrix(0,-0.68056718,1.0029517,0,1917.3573,550.80868)">
     <g
        id="frame-5-7-5-7-0-47-2">
       <rect
@@ -19363,7 +19363,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-1-0-1"
-     transform="matrix(0,-0.64397049,0.64554901,0,1865.8125,177.90985)">
+     transform="matrix(0,-0.68056718,0.68845225,0,1949.5029,187.67276)">
     <g
        id="frame-5-7-5-7-0-47-2-2">
       <rect
@@ -19417,7 +19417,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-1-0-7"
-     transform="matrix(0,-0.64397049,0.87555434,0,1444.588,177.56289)">
+     transform="matrix(0,-0.68056718,0.93374375,0,1500.2837,187.30608)">
     <g
        id="frame-5-7-5-7-0-47-2-8">
       <rect
@@ -19471,7 +19471,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-1-0-4"
-     transform="matrix(0,-0.64397049,2.1317373,0,802.5535,178.09826)">
+     transform="matrix(0,-0.68056718,2.2734127,0,815.5796,187.87188)">
     <g
        id="frame-5-7-5-7-0-47-2-83">
       <rect
@@ -19525,7 +19525,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389"
-     transform="matrix(0.53838762,0,0,0.29384107,493.52326,149.683)">
+     transform="matrix(0.5741689,0,0,0.31053999,486.01118,157.84178)">
     <g
        id="frame-5">
       <rect
@@ -19579,7 +19579,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-7"
-     transform="matrix(0.53838762,0,0,0.31886235,805.50726,149.50783)">
+     transform="matrix(0.5741689,0,0,0.33698322,818.72967,157.65666)">
     <g
        id="frame-5-1">
       <rect
@@ -19633,7 +19633,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-48"
-     transform="matrix(0.53838762,0,0,0.28758575,957.26484,149.31377)">
+     transform="matrix(0.5741689,0,0,0.30392918,980.57307,157.45157)">
     <g
        id="frame-5-2">
       <rect
@@ -19687,7 +19687,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-70"
-     transform="matrix(0.53838762,0,0,0.30322405,1867.6166,149.38521)">
+     transform="matrix(0.5741689,0,0,0.3204562,1951.4269,157.52707)">
     <g
        id="frame-5-30">
       <rect
@@ -19741,7 +19741,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-86"
-     transform="matrix(0,-0.641382,3.8984179,0,1133.8684,1253.1488)">
+     transform="matrix(0,-0.67783158,4.1575071,0,1168.9137,1324.0173)">
     <g
        id="frame-5-79">
       <rect
@@ -19795,7 +19795,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9-2"
-     transform="matrix(0.59244642,0,0,0.94953314,1136.297,1122.9849)">
+     transform="matrix(0.63182046,0,0,1.0034949,1171.5037,1186.4562)">
     <g
        id="frame-5-7-5-7-0-47-7-9-2">
       <rect
@@ -19849,7 +19849,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-1-5-3-7-1"
-     transform="matrix(-0.61184296,0,0,-5.2363786,250.6092,1142.5486)">
+     transform="matrix(-0.65250609,0,0,-5.5339607,226.95304,1207.1317)">
     <g
        id="frame-5-7-95-4-4-9-0">
       <rect
@@ -19903,7 +19903,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9-2-3-5"
-     transform="matrix(0,0.64397049,-0.41673714,0,264.3398,933.66863)">
+     transform="matrix(0,0.68056718,-0.44443352,0,241.59617,986.38113)">
     <g
        id="frame-5-7-5-7-0-47-7-9-2-0-2">
       <rect
@@ -19957,7 +19957,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9-2-3"
-     transform="matrix(0,0.64397049,-0.37458489,0,259.2139,1048.2378)">
+     transform="matrix(0,0.68056718,-0.39947983,0,236.1296,1107.4612)">
     <g
        id="frame-5-7-5-7-0-47-7-9-2-0">
       <rect
@@ -20011,7 +20011,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-19-0-6-1-7-9-2-3-3"
-     transform="matrix(0,0.64397049,-0.54552603,0,277.5912,807.34691)">
+     transform="matrix(0,0.68056718,-0.58178173,0,255.72826,852.88057)">
     <g
        id="frame-5-7-5-7-0-47-7-9-2-0-1">
       <rect
@@ -20065,7 +20065,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5389-0-7-8"
-     transform="matrix(0,0.58327581,-0.27626258,0,286.14342,406.54261)">
+     transform="matrix(0,0.61642323,-0.29462301,0,264.84886,429.29866)">
     <g
        id="frame-5-7-2-5">
       <rect
@@ -20119,7 +20119,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g25926"
-     transform="matrix(0.37704137,0,0,0.62401988,170.57284,585.73348)">
+     transform="matrix(0.40209957,0,0,0.65948278,141.59745,618.67291)">
     <g
        id="shape-64">
 	<circle
@@ -20229,77 +20229,77 @@ JeMAAAAASUVORK5CYII=
 
 		<polygon
    style="fill:#660000"
-   points="50.963,19.823 49.037,19.823 48.074,18.155 49.037,16.488 50.963,16.488 51.926,18.155 "
+   points="51.926,18.155 50.963,19.823 49.037,19.823 48.074,18.155 49.037,16.488 50.963,16.488 "
    id="polygon25810" />
 
 		<polygon
    style="fill:#660000"
-   points="50.963,40.823 49.037,40.823 48.074,39.155 49.037,37.488 50.963,37.488 51.926,39.155 "
+   points="51.926,39.155 50.963,40.823 49.037,40.823 48.074,39.155 49.037,37.488 50.963,37.488 "
    id="polygon25812" />
 
 		<polygon
    style="fill:#660000"
-   points="50.963,62.323 49.037,62.323 48.074,60.655 49.037,58.988 50.963,58.988 51.926,60.655 "
+   points="51.926,60.655 50.963,62.323 49.037,62.323 48.074,60.655 49.037,58.988 50.963,58.988 "
    id="polygon25814" />
 
 		<polygon
    style="fill:#660000"
-   points="61.235,55.28 60.273,56.948 58.347,56.948 57.384,55.28 58.347,53.613 60.273,53.613 "
+   points="60.273,53.613 61.235,55.28 60.273,56.948 58.347,56.948 57.384,55.28 58.347,53.613 "
    id="polygon25816" />
 
 		<polygon
    style="fill:#660000"
-   points="60.273,42.863 61.235,44.53 60.273,46.198 58.347,46.198 57.384,44.53 58.347,42.863 "
+   points="58.347,42.863 60.273,42.863 61.235,44.53 60.273,46.198 58.347,46.198 57.384,44.53 "
    id="polygon25818" />
 
 		<polygon
    style="fill:#660000"
-   points="50.963,83.573 49.037,83.573 48.074,81.905 49.037,80.238 50.963,80.238 51.926,81.905 "
+   points="51.926,81.905 50.963,83.573 49.037,83.573 48.074,81.905 49.037,80.238 50.963,80.238 "
    id="polygon25820" />
 
 		<polygon
    style="fill:#660000"
-   points="35.73,23.389 34.063,24.351 32.395,23.389 32.395,21.463 34.063,20.5 35.73,21.463 "
+   points="35.73,21.463 35.73,23.389 34.063,24.351 32.395,23.389 32.395,21.463 34.063,20.5 "
    id="polygon25822" />
 
 		<polygon
    style="fill:#660000"
-   points="67.605,78.598 65.938,79.56 64.27,78.598 64.27,76.672 65.938,75.709 67.605,76.672 "
+   points="67.605,76.672 67.605,78.598 65.938,79.56 64.27,78.598 64.27,76.672 65.938,75.709 "
    id="polygon25824" />
 
 		<polygon
    style="fill:#660000"
-   points="24.321,34.093 23.358,35.76 21.433,35.76 20.47,34.093 21.433,32.425 23.358,32.425 "
+   points="23.358,32.425 24.321,34.093 23.358,35.76 21.433,35.76 20.47,34.093 21.433,32.425 "
    id="polygon25826" />
 
 		<polygon
    style="fill:#660000"
-   points="79.53,65.968 78.567,67.635 76.642,67.635 75.679,65.968 76.642,64.3 78.567,64.3 "
+   points="78.567,64.3 79.53,65.968 78.567,67.635 76.642,67.635 75.679,65.968 76.642,64.3 "
    id="polygon25828" />
 
 		<polygon
    style="fill:#660000"
-   points="83.543,49.067 83.543,50.993 81.875,51.956 80.207,50.993 80.207,49.067 81.875,48.105 "
+   points="81.875,48.105 83.543,49.067 83.543,50.993 81.875,51.956 80.207,50.993 80.207,49.067 "
    id="polygon25830" />
 
 		<polygon
    style="fill:#660000"
-   points="23.358,64.3 24.321,65.968 23.358,67.635 21.433,67.635 20.47,65.968 21.433,64.3 "
+   points="21.433,64.3 23.358,64.3 24.321,65.968 23.358,67.635 21.433,67.635 20.47,65.968 "
    id="polygon25832" />
 
 		<polygon
    style="fill:#660000"
-   points="78.567,32.425 79.53,34.093 78.567,35.76 76.642,35.76 75.679,34.093 76.642,32.425 "
+   points="76.642,32.425 78.567,32.425 79.53,34.093 78.567,35.76 76.642,35.76 75.679,34.093 "
    id="polygon25834" />
 
 		<polygon
    style="fill:#660000"
-   points="34.063,75.709 35.73,76.672 35.73,78.598 34.063,79.56 32.395,78.598 32.395,76.672 "
+   points="32.395,76.672 34.063,75.709 35.73,76.672 35.73,78.598 34.063,79.56 32.395,78.598 "
    id="polygon25836" />
 
 		<polygon
    style="fill:#660000"
-   points="65.938,20.5 67.605,21.463 67.605,23.389 65.938,24.351 64.27,23.389 64.27,21.463 "
+   points="64.27,21.463 65.938,20.5 67.605,21.463 67.605,23.389 65.938,24.351 64.27,23.389 "
    id="polygon25838" />
 
 
@@ -20307,9 +20307,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-6-8-0-1-5"
-     inkscape:transform-center-x="-33.689952"
-     inkscape:transform-center-y="36.96158"
-     transform="matrix(-0.58541351,0,0,-0.5093814,285.1304,582.18262)"
+     inkscape:transform-center-x="-35.928991"
+     inkscape:transform-center-y="39.062096"
+     transform="matrix(-0.62432014,0,0,-0.53832942,263.76852,614.92025)"
      inkscape:label="">
     <g
        id="frame-1-80-7-8-3-58">
@@ -20415,7 +20415,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-1"
-     transform="matrix(-0.58189436,0,0,-0.5110379,285.02483,582.26545)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.65593,615.00779)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state30&quot;}">
     <g
        id="frame-92-9-3-18">
@@ -20492,13 +20492,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-78" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.8492,584.04828)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.46863,616.89194)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state31&quot;}">
     <g
        id="frame-92-9-3-18-8">
@@ -20575,13 +20575,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
          id="polygon5877-4-1-78-6" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.87878,582.26545)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.50017,615.00779)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state1&quot;}">
     <g
        id="frame-92-9-3-18-8-4">
@@ -20658,13 +20658,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7">
       <polygon
          style="fill:#ffffff"
-         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
+         points="46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 "
          id="polygon5877-4-1-78-6-7" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.96676,583.32264)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.594,616.12506)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state2&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3">
@@ -20741,13 +20741,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7">
       <polygon
          style="fill:#ffffff"
-         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
+         points="46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 "
          id="polygon5877-4-1-78-6-7-5" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.96676,583.32264)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.594,616.12506)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state3&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3-0">
@@ -20824,13 +20824,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8">
       <polygon
          style="fill:#ffffff"
-         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
+         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
          id="polygon5877-4-1-78-6-7-5-0" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1-0"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.87878,582.26545)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.50017,615.00779)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state4&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3-0-2">
@@ -20907,13 +20907,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8-0">
       <polygon
          style="fill:#ffffff"
-         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
+         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
          id="polygon5877-4-1-78-6-7-5-0-4" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1-3"
-     transform="matrix(-0.58189436,0,0,-0.5110379,285.02483,582.26545)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.65593,615.00779)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state5&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3-0-29">
@@ -20990,13 +20990,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8-1">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-78-6-7-5-0-3" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1-3-4"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.87878,582.26545)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.50017,615.00779)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state6&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3-0-29-1">
@@ -21073,16 +21073,16 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8-1-2">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-78-6-7-5-0-3-6" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1-3-2"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.87878,582.26545)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.50017,615.00779)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state7&quot;}"
-     inkscape:transform-center-x="32.731526"
-     inkscape:transform-center-y="-15.923445">
+     inkscape:transform-center-x="34.906871"
+     inkscape:transform-center-y="-16.82837">
     <g
        id="frame-92-9-3-18-8-4-3-0-29-0">
       <rect
@@ -21158,13 +21158,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8-1-0">
       <polygon
          style="fill:#ffffff"
-         points="53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 "
+         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
          id="polygon5877-4-1-78-6-7-5-0-3-0" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1-3-24"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.87878,582.26545)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.50017,615.00779)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state8&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3-0-29-7">
@@ -21241,13 +21241,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8-1-5">
       <polygon
          style="fill:#ffffff"
-         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
+         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
          id="polygon5877-4-1-78-6-7-5-0-3-7" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1-3-8"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.96676,583.32264)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.594,616.12506)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state9&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3-0-29-3">
@@ -21324,13 +21324,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8-1-3">
       <polygon
          style="fill:#ffffff"
-         points="53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 "
+         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
          id="polygon5877-4-1-78-6-7-5-0-3-2" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1-3-6"
-     transform="matrix(-0.58189436,0,0,-0.5110379,284.96676,583.32264)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.594,616.12506)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state10&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3-0-29-04">
@@ -21407,13 +21407,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8-1-56">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-78-6-7-5-0-3-4" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1-3-42"
-     transform="matrix(-0.58189436,0,0,-0.5110379,285.02483,582.26545)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.65593,615.00779)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state11&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3-0-29-11">
@@ -21490,13 +21490,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8-1-7">
       <polygon
          style="fill:#ffffff"
-         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-78-6-7-5-0-3-00" />
     </g>
   </g>
   <g
      id="g5880-4-6-1-7-3-6-1-3-1"
-     transform="matrix(-0.58189436,0,0,-0.5110379,285.02483,582.26545)"
+     transform="matrix(-0.62056711,0,0,-0.54008006,263.65593,615.00779)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state13&quot;}">
     <g
        id="frame-92-9-3-18-8-4-3-0-29-70">
@@ -21573,13 +21573,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-56-8-7-7-8-1-4">
       <polygon
          style="fill:#ffffff"
-         points="46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 "
+         points="53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 "
          id="polygon5877-4-1-78-6-7-5-0-3-8" />
     </g>
   </g>
   <g
      id="g6102-0-25-7-0"
-     transform="matrix(-0.63664488,0,0,-0.62731282,1993.269,520.73796)">
+     transform="matrix(-0.67895635,0,0,-0.66296285,2085.4301,549.98371)">
     <g
        id="frame-62-7-0-0-7">
       <rect
@@ -21625,7 +21625,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g6102-0-25-7-5"
-     transform="matrix(0,0.63225425,-0.62731282,0,1992.6564,114.05761)">
+     transform="matrix(0,0.6681851,-0.66900408,0,2084.7768,120.19181)">
     <g
        id="frame-62-7-0-0-1">
       <rect
@@ -21671,7 +21671,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g6102-0-25-7-2"
-     transform="matrix(0,0.63225425,-0.62731282,0,1993.0713,628.30713)">
+     transform="matrix(0,0.6681851,-0.66900408,0,2085.2193,663.66601)">
     <g
        id="frame-62-7-0-0-0">
       <rect
@@ -21717,9 +21717,9 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5206-6-0"
-     inkscape:transform-center-x="-36.487062"
-     inkscape:transform-center-y="34.004296"
-     transform="matrix(-0.63401788,0,0,-0.4686258,251.8249,701.38849)"
+     inkscape:transform-center-x="-38.911994"
+     inkscape:transform-center-y="35.936749"
+     transform="matrix(-0.67615476,0,0,-0.49525769,228.24953,740.90056)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state30&quot;}">
     <g
        id="frame-1-80-79">
@@ -21825,7 +21825,7 @@ JeMAAAAASUVORK5CYII=
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.39121,701.36716)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.78702,740.87802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state29&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8">
@@ -21902,13 +21902,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-1-7-6-5" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-4"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.39121,701.36716)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.78702,740.87802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state28&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-2">
@@ -21985,13 +21985,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-7">
       <polygon
          style="fill:#ffffff"
-         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
+         points="46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 "
          id="polygon5877-4-1-77-1-7-6-5-1" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-9"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.39121,701.36716)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.78702,740.87802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state26&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-9">
@@ -22068,13 +22068,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-5">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-1-7-6-5-3" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-1"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.45781,701.36716)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.85804,740.87802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state24&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-1">
@@ -22151,13 +22151,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-9">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-1-7-6-5-0" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-5"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.39121,701.36716)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.78702,740.87802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state23&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-6">
@@ -22234,13 +22234,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-4">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-1-7-6-5-7" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-7"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.39121,701.36716)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.78702,740.87802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state22&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-27">
@@ -22317,13 +22317,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-92">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-1-7-6-5-39" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-2"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.09684,701.34827)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.47308,740.85806)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state21&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-26">
@@ -22400,13 +22400,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-8">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-1-7-6-5-4" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-96"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.32933,701.34827)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.72103,740.85806)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state20&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-8">
@@ -22483,13 +22483,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-48">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-1-7-6-5-5" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-0"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.32933,701.34827)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.72103,740.85806)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state19&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-66">
@@ -22566,13 +22566,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-1">
       <polygon
          style="fill:#ffffff"
-         points="46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 "
+         points="53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 "
          id="polygon5877-4-1-77-1-7-6-5-9" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-0-7"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.09684,701.34827)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.47308,740.85806)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state18&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-66-3">
@@ -22649,13 +22649,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-1-8">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
          id="polygon5877-4-1-77-1-7-6-5-9-0" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-0-71"
-     transform="matrix(-0.62178156,0,0,-0.46819928,251.09684,701.34827)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.47308,740.85806)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state17&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-66-32">
@@ -22732,13 +22732,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-1-9">
       <polygon
          style="fill:#ffffff"
-         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
+         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
          id="polygon5877-4-1-77-1-7-6-5-9-7" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-0-0"
-     transform="matrix(-0.62178156,0,0,-0.46819928,250.95,701.36716)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.31649,740.87802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state15&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-66-7">
@@ -22815,13 +22815,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-1-4">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
          id="polygon5877-4-1-77-1-7-6-5-9-4" />
     </g>
   </g>
   <g
      id="g5880-4-6-7-4-8-59-1-0-2"
-     transform="matrix(-0.62178156,0,0,-0.46819928,250.95,701.36716)"
+     transform="matrix(-0.66310521,0,0,-0.49480693,227.31649,740.87802)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state14&quot;}">
     <g
        id="frame-92-9-3-5-9-2-78-8-66-36">
@@ -22898,13 +22898,13 @@ JeMAAAAASUVORK5CYII=
        id="hlight-737-2-1-2-09-8-5-2-1-2">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
          id="polygon5877-4-1-77-1-7-6-5-9-42" />
     </g>
   </g>
   <g
      id="g26160-3"
-     transform="matrix(0.44267941,0,0,0.62939165,194.44505,389.29654)">
+     transform="matrix(0.47209992,0,0,0.66515982,167.05621,411.0725)">
     <g
        transform="translate(-153.92664,311.39182)"
        id="g26245-8">
@@ -23003,66 +23003,79 @@ JeMAAAAASUVORK5CYII=
              id="path26127-3" />
           <polygon
              style="fill:#012400"
-             points="50.963,16.488 51.926,18.155 50.963,19.823 49.037,19.823 48.074,18.155 49.037,16.488 "
+             points="51.926,18.155 50.963,19.823 49.037,19.823 48.074,18.155 49.037,16.488 50.963,16.488 "
              id="polygon26129-4" />
           <polygon
              style="fill:#012400"
-             points="50.963,37.488 51.926,39.155 50.963,40.823 49.037,40.823 48.074,39.155 49.037,37.488 "
+             points="51.926,39.155 50.963,40.823 49.037,40.823 48.074,39.155 49.037,37.488 50.963,37.488 "
              id="polygon26131-5" />
           <polygon
              style="fill:#012400"
-             points="50.963,58.988 51.926,60.655 50.963,62.323 49.037,62.323 48.074,60.655 49.037,58.988 "
+             points="51.926,60.655 50.963,62.323 49.037,62.323 48.074,60.655 49.037,58.988 50.963,58.988 "
              id="polygon26133-1" />
           <polygon
              style="fill:#012400"
-             points="58.347,53.613 60.273,53.613 61.235,55.28 60.273,56.948 58.347,56.948 57.384,55.28 "
+             points="60.273,53.613 61.235,55.28 60.273,56.948 58.347,56.948 57.384,55.28 58.347,53.613 "
              id="polygon26135-1" />
           <polygon
              style="fill:#012400"
-             points="57.384,44.53 58.347,42.863 60.273,42.863 61.235,44.53 60.273,46.198 58.347,46.198 "
+             points="58.347,42.863 60.273,42.863 61.235,44.53 60.273,46.198 58.347,46.198 57.384,44.53 "
              id="polygon26137-7" />
           <polygon
              style="fill:#012400"
-             points="50.963,80.238 51.926,81.905 50.963,83.573 49.037,83.573 48.074,81.905 49.037,80.238 "
+             points="51.926,81.905 50.963,83.573 49.037,83.573 48.074,81.905 49.037,80.238 50.963,80.238 "
              id="polygon26139-9" />
           <polygon
              style="fill:#012400"
-             points="34.063,20.5 35.73,21.463 35.73,23.389 34.063,24.351 32.395,23.389 32.395,21.463 "
+             points="35.73,21.463 35.73,23.389 34.063,24.351 32.395,23.389 32.395,21.463 34.063,20.5 "
              id="polygon26141-8" />
           <polygon
              style="fill:#012400"
-             points="65.938,75.709 67.605,76.672 67.605,78.598 65.938,79.56 64.27,78.598 64.27,76.672 "
+             points="67.605,76.672 67.605,78.598 65.938,79.56 64.27,78.598 64.27,76.672 65.938,75.709 "
              id="polygon26143-0" />
           <polygon
              style="fill:#012400"
-             points="21.433,32.425 23.358,32.425 24.321,34.093 23.358,35.76 21.433,35.76 20.47,34.093 "
+             points="23.358,32.425 24.321,34.093 23.358,35.76 21.433,35.76 20.47,34.093 21.433,32.425 "
              id="polygon26145-1" />
           <polygon
              style="fill:#012400"
-             points="76.642,64.3 78.567,64.3 79.53,65.968 78.567,67.635 76.642,67.635 75.679,65.968 "
+             points="78.567,64.3 79.53,65.968 78.567,67.635 76.642,67.635 75.679,65.968 76.642,64.3 "
              id="polygon26147-4" />
           <polygon
              style="fill:#012400"
-             points="80.207,49.067 81.875,48.105 83.543,49.067 83.543,50.993 81.875,51.956 80.207,50.993 "
+             points="81.875,48.105 83.543,49.067 83.543,50.993 81.875,51.956 80.207,50.993 80.207,49.067 "
              id="polygon26149-4" />
           <polygon
              style="fill:#012400"
-             points="20.47,65.968 21.433,64.3 23.358,64.3 24.321,65.968 23.358,67.635 21.433,67.635 "
+             points="21.433,64.3 23.358,64.3 24.321,65.968 23.358,67.635 21.433,67.635 20.47,65.968 "
              id="polygon26151-7" />
           <polygon
              style="fill:#012400"
-             points="75.679,34.093 76.642,32.425 78.567,32.425 79.53,34.093 78.567,35.76 76.642,35.76 "
+             points="76.642,32.425 78.567,32.425 79.53,34.093 78.567,35.76 76.642,35.76 75.679,34.093 "
              id="polygon26153-2" />
           <polygon
              style="fill:#012400"
-             points="32.395,78.598 32.395,76.672 34.063,75.709 35.73,76.672 35.73,78.598 34.063,79.56 "
+             points="32.395,76.672 34.063,75.709 35.73,76.672 35.73,78.598 34.063,79.56 32.395,78.598 "
              id="polygon26155-2" />
           <polygon
              style="fill:#012400"
-             points="64.27,23.389 64.27,21.463 65.938,20.5 67.605,21.463 67.605,23.389 65.938,24.351 "
+             points="64.27,21.463 65.938,20.5 67.605,21.463 67.605,23.389 65.938,24.351 64.27,23.389 "
              id="polygon26157-6" />
         </g>
       </g>
     </g>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:34.03373718px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.85084343"
+     x="312.93274"
+     y="502.96988"
+     id="text28718"
+     transform="scale(0.96440561,1.0369081)"
+     inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;sensor32&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+       sodipodi:role="line"
+       id="tspan28716"
+       x="312.93274"
+       y="502.96988"
+       style="stroke-width:0.85084343">%s</tspan></text>
 </svg>
