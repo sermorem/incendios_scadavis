@@ -44,9 +44,9 @@
      inkscape:window-height="1017"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="0.3996598"
-     inkscape:cx="993.41723"
-     inkscape:cy="583.59892"
+     inkscape:zoom="0.56520431"
+     inkscape:cx="1020.381"
+     inkscape:cy="455.27363"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -10564,7 +10564,7 @@
   </g>
   <g
      id="g3160-5-0-34-4"
-     transform="matrix(0.38805002,0,0,0.42655496,1226.6833,1004.3176)"
+     transform="matrix(0.38805002,0,0,0.42655496,1187.063,1003.7602)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state20&quot;}">
     <g
        id="shape-7-8-4-5-72">
@@ -10657,7 +10657,7 @@
   </g>
   <g
      id="g3006-3-1-4-77"
-     transform="matrix(0.37937601,0,0,0.42454797,1227.117,1004.4236)"
+     transform="matrix(0.37937601,0,0,0.42454797,1186.4238,1002.6543)"
      inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state20&quot;}">
     <g
        id="shape-73-4-2-09">
@@ -21950,7 +21950,7 @@
   </g>
   <g
      id="g28838-9"
-     transform="matrix(0.72501742,0,0,0.76276948,1251.7794,518.74869)">
+     transform="matrix(0.72501742,0,0,0.76276948,1203.6134,480.59124)">
     <text
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_32&quot;,&quot;type&quot;:&quot;Good&quot;}"
        transform="scale(0.9145292,1.0934588)"
@@ -23238,7 +23238,7 @@
   </g>
   <g
      id="g28838-57-7-71"
-     transform="matrix(0.72501742,0,0,0.76276948,1006.267,677.00793)">
+     transform="matrix(0.72501742,0,0,0.76276948,968.22766,677.89257)">
     <text
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_20&quot;,&quot;type&quot;:&quot;Good&quot;}"
        transform="scale(0.9145292,1.0934588)"
