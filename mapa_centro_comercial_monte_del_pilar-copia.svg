@@ -44,10 +44,10 @@
      inkscape:window-height="1017"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="0.56520431"
-     inkscape:cx="1020.381"
-     inkscape:cy="455.27363"
-     inkscape:window-x="-8"
+     inkscape:zoom="1.5986392"
+     inkscape:cx="417.493"
+     inkscape:cy="494.41653"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg10" />
@@ -14225,7 +14225,7 @@
        id="hlight-737-74-6-05-6-9">
       <polygon
          style="fill:#ffffff"
-         points="53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 "
+         points="46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 "
          id="polygon5877-3-3-62-2-2" />
     </g>
   </g>
@@ -17160,7 +17160,7 @@
        id="hlight-737-2-1-2-09-8-5">
       <polygon
          style="fill:#ffffff"
-         points="46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 "
+         points="53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 "
          id="polygon5877-4-1-77-1-7-6" />
     </g>
   </g>
@@ -23519,174 +23519,6 @@
          sodipodi:role="line">%H</tspan></text>
   </g>
   <g
-     id="g28838-57-7-260"
-     transform="matrix(0.72501742,0,0,0.76276948,103.51016,771.17582)">
-    <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_26&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-5-4-78"
-       y="464.4653"
-       x="322.58356"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="464.4653"
-         x="322.58356"
-         id="tspan28716-148-0-91"
-         sodipodi:role="line">%2.2f</tspan></text>
-    <text
-       inkscape:label=""
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-8-9-92-16"
-       y="463.74118"
-       x="381.25052"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="463.74118"
-         x="381.25052"
-         id="tspan28716-4-781-2-4"
-         sodipodi:role="line">ºC</tspan></text>
-    <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_26&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-2-4-5-95"
-       y="479.81183"
-       x="322.63083"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="479.81183"
-         x="322.63083"
-         id="tspan28716-45-35-7-58"
-         sodipodi:role="line">%2.2f</tspan></text>
-    <text
-       inkscape:label=""
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-8-7-0-83-47"
-       y="479.34921"
-       x="373.58948"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="479.34921"
-         x="373.58948"
-         id="tspan28716-4-9-43-2-61"
-         sodipodi:role="line">%H</tspan></text>
-  </g>
-  <g
-     id="g28838-57-7-4"
-     transform="matrix(0.72501742,0,0,0.76276948,118.54321,654.19942)">
-    <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_28&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-5-4-72"
-       y="464.4653"
-       x="322.58356"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="464.4653"
-         x="322.58356"
-         id="tspan28716-148-0-36"
-         sodipodi:role="line">%2.2f</tspan></text>
-    <text
-       inkscape:label=""
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-8-9-92-882"
-       y="463.74118"
-       x="381.25052"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="463.74118"
-         x="381.25052"
-         id="tspan28716-4-781-2-43"
-         sodipodi:role="line">ºC</tspan></text>
-    <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_28&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-2-4-5-26"
-       y="479.81183"
-       x="322.63083"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="479.81183"
-         x="322.63083"
-         id="tspan28716-45-35-7-79"
-         sodipodi:role="line">%2.2f</tspan></text>
-    <text
-       inkscape:label=""
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-8-7-0-83-824"
-       y="479.34921"
-       x="373.58948"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="479.34921"
-         x="373.58948"
-         id="tspan28716-4-9-43-2-91"
-         sodipodi:role="line">%H</tspan></text>
-  </g>
-  <g
-     id="g28838-57-7-91"
-     transform="matrix(0.72501742,0,0,0.76276948,104.39562,471.63644)">
-    <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_29&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-5-4-3"
-       y="464.4653"
-       x="322.58356"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="464.4653"
-         x="322.58356"
-         id="tspan28716-148-0-999"
-         sodipodi:role="line">%2.2f</tspan></text>
-    <text
-       inkscape:label=""
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-8-9-92-76"
-       y="463.74118"
-       x="381.25052"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="463.74118"
-         x="381.25052"
-         id="tspan28716-4-781-2-566"
-         sodipodi:role="line">ºC</tspan></text>
-    <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_29&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-2-4-5-37"
-       y="479.81183"
-       x="322.63083"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="479.81183"
-         x="322.63083"
-         id="tspan28716-45-35-7-56"
-         sodipodi:role="line">%2.2f</tspan></text>
-    <text
-       inkscape:label=""
-       transform="scale(0.9145292,1.0934588)"
-       id="text28718-8-7-0-83-16"
-       y="479.34921"
-       x="373.58948"
-       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
-       xml:space="preserve"><tspan
-         style="stroke-width:0.39003769"
-         y="479.34921"
-         x="373.58948"
-         id="tspan28716-4-9-43-2-98"
-         sodipodi:role="line">%H</tspan></text>
-  </g>
-  <g
      id="g26160-3-5"
      transform="matrix(0.40969416,0,0,0.68010504,204.58092,457.90975)">
     <g
@@ -23787,63 +23619,63 @@
              id="path26127-3-5" />
           <polygon
              style="fill:#012400"
-             points="48.074,18.155 49.037,16.488 50.963,16.488 51.926,18.155 50.963,19.823 49.037,19.823 "
+             points="49.037,16.488 50.963,16.488 51.926,18.155 50.963,19.823 49.037,19.823 48.074,18.155 "
              id="polygon26129-4-9" />
           <polygon
              style="fill:#012400"
-             points="48.074,39.155 49.037,37.488 50.963,37.488 51.926,39.155 50.963,40.823 49.037,40.823 "
+             points="49.037,37.488 50.963,37.488 51.926,39.155 50.963,40.823 49.037,40.823 48.074,39.155 "
              id="polygon26131-5-3" />
           <polygon
              style="fill:#012400"
-             points="48.074,60.655 49.037,58.988 50.963,58.988 51.926,60.655 50.963,62.323 49.037,62.323 "
+             points="49.037,58.988 50.963,58.988 51.926,60.655 50.963,62.323 49.037,62.323 48.074,60.655 "
              id="polygon26133-1-1" />
           <polygon
              style="fill:#012400"
-             points="58.347,56.948 57.384,55.28 58.347,53.613 60.273,53.613 61.235,55.28 60.273,56.948 "
+             points="57.384,55.28 58.347,53.613 60.273,53.613 61.235,55.28 60.273,56.948 58.347,56.948 "
              id="polygon26135-1-9" />
           <polygon
              style="fill:#012400"
-             points="60.273,46.198 58.347,46.198 57.384,44.53 58.347,42.863 60.273,42.863 61.235,44.53 "
+             points="58.347,46.198 57.384,44.53 58.347,42.863 60.273,42.863 61.235,44.53 60.273,46.198 "
              id="polygon26137-7-5" />
           <polygon
              style="fill:#012400"
-             points="48.074,81.905 49.037,80.238 50.963,80.238 51.926,81.905 50.963,83.573 49.037,83.573 "
+             points="49.037,80.238 50.963,80.238 51.926,81.905 50.963,83.573 49.037,83.573 48.074,81.905 "
              id="polygon26139-9-0" />
           <polygon
              style="fill:#012400"
-             points="32.395,23.389 32.395,21.463 34.063,20.5 35.73,21.463 35.73,23.389 34.063,24.351 "
+             points="32.395,21.463 34.063,20.5 35.73,21.463 35.73,23.389 34.063,24.351 32.395,23.389 "
              id="polygon26141-8-6" />
           <polygon
              style="fill:#012400"
-             points="64.27,78.598 64.27,76.672 65.938,75.709 67.605,76.672 67.605,78.598 65.938,79.56 "
+             points="64.27,76.672 65.938,75.709 67.605,76.672 67.605,78.598 65.938,79.56 64.27,78.598 "
              id="polygon26143-0-7" />
           <polygon
              style="fill:#012400"
-             points="21.433,35.76 20.47,34.093 21.433,32.425 23.358,32.425 24.321,34.093 23.358,35.76 "
+             points="20.47,34.093 21.433,32.425 23.358,32.425 24.321,34.093 23.358,35.76 21.433,35.76 "
              id="polygon26145-1-2" />
           <polygon
              style="fill:#012400"
-             points="76.642,67.635 75.679,65.968 76.642,64.3 78.567,64.3 79.53,65.968 78.567,67.635 "
+             points="75.679,65.968 76.642,64.3 78.567,64.3 79.53,65.968 78.567,67.635 76.642,67.635 "
              id="polygon26147-4-2" />
           <polygon
              style="fill:#012400"
-             points="81.875,51.956 80.207,50.993 80.207,49.067 81.875,48.105 83.543,49.067 83.543,50.993 "
+             points="80.207,50.993 80.207,49.067 81.875,48.105 83.543,49.067 83.543,50.993 81.875,51.956 "
              id="polygon26149-4-9" />
           <polygon
              style="fill:#012400"
-             points="23.358,67.635 21.433,67.635 20.47,65.968 21.433,64.3 23.358,64.3 24.321,65.968 "
+             points="21.433,67.635 20.47,65.968 21.433,64.3 23.358,64.3 24.321,65.968 23.358,67.635 "
              id="polygon26151-7-7" />
           <polygon
              style="fill:#012400"
-             points="78.567,35.76 76.642,35.76 75.679,34.093 76.642,32.425 78.567,32.425 79.53,34.093 "
+             points="76.642,35.76 75.679,34.093 76.642,32.425 78.567,32.425 79.53,34.093 78.567,35.76 "
              id="polygon26153-2-3" />
           <polygon
              style="fill:#012400"
-             points="35.73,78.598 34.063,79.56 32.395,78.598 32.395,76.672 34.063,75.709 35.73,76.672 "
+             points="34.063,79.56 32.395,78.598 32.395,76.672 34.063,75.709 35.73,76.672 35.73,78.598 "
              id="polygon26155-2-9" />
           <polygon
              style="fill:#012400"
-             points="67.605,23.389 65.938,24.351 64.27,23.389 64.27,21.463 65.938,20.5 67.605,21.463 "
+             points="65.938,24.351 64.27,23.389 64.27,21.463 65.938,20.5 67.605,21.463 67.605,23.389 "
              id="polygon26157-6-7" />
         </g>
       </g>
@@ -24167,5 +23999,173 @@
         </g>
       </g>
     </g>
+  </g>
+  <g
+     id="g28838-57-7-82-2"
+     transform="matrix(0.72501742,0,0,0.76276948,102.04313,771.78303)">
+    <text
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_26&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-5-4-76-0"
+       y="464.4653"
+       x="322.58356"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="464.4653"
+         x="322.58356"
+         id="tspan28716-148-0-74-2"
+         sodipodi:role="line">%2.2f</tspan></text>
+    <text
+       inkscape:label=""
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-8-9-92-88-4"
+       y="463.74118"
+       x="381.25052"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="463.74118"
+         x="381.25052"
+         id="tspan28716-4-781-2-0-9"
+         sodipodi:role="line">ºC</tspan></text>
+    <text
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_26&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-2-4-5-16-1"
+       y="479.81183"
+       x="322.63083"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="479.81183"
+         x="322.63083"
+         id="tspan28716-45-35-7-22-5"
+         sodipodi:role="line">%2.2f</tspan></text>
+    <text
+       inkscape:label=""
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-8-7-0-83-65-5"
+       y="479.34921"
+       x="373.58948"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="479.34921"
+         x="373.58948"
+         id="tspan28716-4-9-43-2-450-0"
+         sodipodi:role="line">%H</tspan></text>
+  </g>
+  <g
+     id="g28838-57-7-82-6"
+     transform="matrix(0.72501742,0,0,0.76276948,116.43037,656.05961)">
+    <text
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_28&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-5-4-76-5"
+       y="464.4653"
+       x="322.58356"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="464.4653"
+         x="322.58356"
+         id="tspan28716-148-0-74-9"
+         sodipodi:role="line">%2.2f</tspan></text>
+    <text
+       inkscape:label=""
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-8-9-92-88-8"
+       y="463.74118"
+       x="381.25052"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="463.74118"
+         x="381.25052"
+         id="tspan28716-4-781-2-0-1"
+         sodipodi:role="line">ºC</tspan></text>
+    <text
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_28&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-2-4-5-16-7"
+       y="479.81183"
+       x="322.63083"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="479.81183"
+         x="322.63083"
+         id="tspan28716-45-35-7-22-2"
+         sodipodi:role="line">%2.2f</tspan></text>
+    <text
+       inkscape:label=""
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-8-7-0-83-65-1"
+       y="479.34921"
+       x="373.58948"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="479.34921"
+         x="373.58948"
+         id="tspan28716-4-9-43-2-450-9"
+         sodipodi:role="line">%H</tspan></text>
+  </g>
+  <g
+     id="g28838-57-7-82-8"
+     transform="matrix(0.72501742,0,0,0.76276948,102.66866,553.47236)">
+    <text
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;temp_29&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-5-4-76-9"
+       y="464.4653"
+       x="322.58356"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="464.4653"
+         x="322.58356"
+         id="tspan28716-148-0-74-8"
+         sodipodi:role="line">%2.2f</tspan></text>
+    <text
+       inkscape:label=""
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-8-9-92-88-3"
+       y="463.74118"
+       x="381.25052"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="463.74118"
+         x="381.25052"
+         id="tspan28716-4-781-2-0-5"
+         sodipodi:role="line">ºC</tspan></text>
+    <text
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;hum_29&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-2-4-5-16-8"
+       y="479.81183"
+       x="322.63083"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="479.81183"
+         x="322.63083"
+         id="tspan28716-45-35-7-22-50"
+         sodipodi:role="line">%2.2f</tspan></text>
+    <text
+       inkscape:label=""
+       transform="scale(0.9145292,1.0934588)"
+       id="text28718-8-7-0-83-65-6"
+       y="479.34921"
+       x="373.58948"
+       style="font-style:normal;font-weight:normal;font-size:15.60150814px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39003769"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.39003769"
+         y="479.34921"
+         x="373.58948"
+         id="tspan28716-4-9-43-2-450-2"
+         sodipodi:role="line">%H</tspan></text>
   </g>
 </svg>
