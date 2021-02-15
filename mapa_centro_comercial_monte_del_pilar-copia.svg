@@ -24172,7 +24172,7 @@
   </g>
   <g
      id="g10005"
-     transform="matrix(0.75849499,0,0,0.67872362,2.8390402,-33.935345)">
+     transform="matrix(0.75849499,0,0,0.67872362,3.4645722,258.18811)">
     <text
        id="text9985"
        y="828.37726"
@@ -24186,12 +24186,12 @@
          sodipodi:role="line">%4.2f</tspan></text>
     <text
        id="text9989"
-       y="828.37726"
-       x="176.54616"
+       y="829.29889"
+       x="169.12384"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="828.37726"
-         x="176.54616"
+         y="829.29889"
+         x="169.12384"
          id="tspan9987"
          sodipodi:role="line">L</tspan></text>
   </g>
