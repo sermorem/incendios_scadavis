@@ -45,8 +45,8 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="1.1304086"
-     inkscape:cx="507.82026"
-     inkscape:cy="948.78597"
+     inkscape:cx="463.58847"
+     inkscape:cy="977.09432"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1796,7 +1796,7 @@
   <g
      id="g3160-1"
      transform="matrix(0.38805002,0,0,0.42655496,338.27601,419.24234)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state7&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state30&quot;}">
     <g
        id="shape-7-1">
       <circle
@@ -1889,7 +1889,7 @@
   <g
      id="g3006-3"
      transform="matrix(0.37937601,0,0,0.42454797,338.70971,419.34837)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state7&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state30&quot;}">
     <g
        id="shape-73">
       <circle
@@ -12113,7 +12113,7 @@
   <g
      id="g3160-5-0-34-57"
      transform="matrix(0.38805002,0,0,0.42655496,332.30573,1086.7606)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state5&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state26&quot;}">
     <g
        id="shape-7-8-4-5-64">
       <circle
@@ -12206,7 +12206,7 @@
   <g
      id="g3006-3-1-4-04"
      transform="matrix(0.37937601,0,0,0.42454797,332.7149,1086.8609)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state5&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state26&quot;}">
     <g
        id="shape-73-4-2-3">
       <circle
@@ -12299,7 +12299,7 @@
   <g
      id="g3160-5-0-34-27"
      transform="matrix(0.38805002,0,0,0.42655496,344.26652,972.67566)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state20&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state28&quot;}">
     <g
        id="shape-7-8-4-5-45">
       <circle
@@ -12392,7 +12392,7 @@
   <g
      id="g3006-3-1-4-01"
      transform="matrix(0.37937601,0,0,0.42454797,344.67569,972.77601)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state20&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state28&quot;}">
     <g
        id="shape-73-4-2-71">
       <circle
@@ -12485,7 +12485,7 @@
   <g
      id="g3160-5-0-34-77"
      transform="matrix(0.38805002,0,0,0.42655496,337.17937,862.52362)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state21&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state29&quot;}">
     <g
        id="shape-7-8-4-5-934">
       <circle
@@ -12578,7 +12578,7 @@
   <g
      id="g3006-3-1-4-88"
      transform="matrix(0.37937601,0,0,0.42454797,337.58854,862.62397)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state21&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state29&quot;}">
     <g
        id="shape-73-4-2-91">
       <circle
@@ -18507,7 +18507,7 @@
        id="hlight-737-2-1-2-09-8-3-3">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-77-1-7-2-2" />
     </g>
   </g>
