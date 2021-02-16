@@ -44,9 +44,9 @@
      inkscape:window-height="1017"
      id="namedview12"
      showgrid="false"
-     inkscape:zoom="1.1304086"
-     inkscape:cx="321.04376"
-     inkscape:cy="325.69907"
+     inkscape:zoom="1.5986392"
+     inkscape:cx="329.35824"
+     inkscape:cy="319.69485"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -12113,7 +12113,7 @@
   <g
      id="g3160-5-0-34-57"
      transform="matrix(0.38805002,0,0,0.42655496,332.30573,1086.7606)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state17&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state1&quot;}">
     <g
        id="shape-7-8-4-5-64">
       <circle
@@ -12205,8 +12205,8 @@
   </g>
   <g
      id="g3006-3-1-4-04"
-     transform="matrix(0.37937601,0,0,0.42454797,332.73943,1086.8666)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state17&quot;}">
+     transform="matrix(0.37937601,0,0,0.42454797,332.7149,1086.8609)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state1&quot;}">
     <g
        id="shape-73-4-2-3">
       <circle
@@ -17839,7 +17839,7 @@
      inkscape:transform-center-x="36.839913"
      inkscape:transform-center-y="37.776638"
      transform="matrix(0,-0.65642656,0.50770521,0,253.05847,1175.3682)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state17&quot;}">
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:0,&quot;min&quot;:1,&quot;tag&quot;:&quot;sensor_state1&quot;}">
     <g
        id="frame-1-1-1-9-23-7-6-2-8-7-6">
       <rect
@@ -17944,8 +17944,8 @@
   </g>
   <g
      id="g5880-4-6-7-4-8-67"
-     transform="matrix(0,-0.65223907,0.50935626,0,252.97592,1175.2426)"
-     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state17&quot;}">
+     transform="matrix(0,-0.65223907,0.50935626,0,252.97592,1175.0688)"
+     inkscape:label="{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1,&quot;min&quot;:0,&quot;tag&quot;:&quot;sensor_state1&quot;}">
     <g
        id="frame-92-9-3-5-9-2-8">
       <rect
@@ -18021,7 +18021,7 @@
        id="hlight-737-2-1-2-09-8-3">
       <polygon
          style="fill:#ffffff"
-         points="46.5,31 46.5,73.2 46.5,100 53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 "
+         points="53.5,100 53.5,73.4 53.5,30.8 53.5,0 46.5,0 46.5,31 46.5,73.2 46.5,100 "
          id="polygon5877-4-1-77-1-7-2" />
     </g>
   </g>
